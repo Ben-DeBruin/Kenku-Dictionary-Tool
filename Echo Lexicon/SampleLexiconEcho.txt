@@ -1,0 +1,7123 @@
+[hagrol flynhide]
+[sting]
+[vesanz]
+[wendell]
+[tirrell]
+[isra]
+[orden|intimidating]
+[orden| frankly]
+[dr lazurmir| general]
+[dr lazurmir| intrigued]
+[dr lazurmir| annoyed]
+[common]
+[dr lazurmir| caring facade to patient]
+[dr lazurmir| pleased]
+[dr lazurmir| dissapointed]
+[sting|excited]
+[elora|emotionless]
+[elder hammon]
+[elora]
+[tirrell|derogatory]
+[dr lazurmir| command]
+[torment|hesitant]
+[torment]
+[orden|guessing charades]
+[orden]
+[firbolg male barkeep]
+[sting|confused]
+[alka]
+[tirrell|declaring]
+[sting|questioning politely]
+[flare]
+[aasimar]
+[aasimar male]
+[orden|teaching]
+[orden|questioning]
+[orden|relaying dream]
+[tirrells mom]
+[kanna]
+[enala]
+[enala|(other adventuring party)]
+[tirrel]
+[enala|serious]
+[marlos| guild receptionist male halfing]
+[samen gnome]
+[seer]
+[half elf bartender]
+[tabaxi magic shop]
+[dead pirate captain]
+[shantala]
+[gnome carriage salesman]
+[venali]
+[elasha]
+[faelin]
+[yulia]
+[runehead|dwarf]
+[runehead]
+[dwarf]
+[hagrol flynthide]
+[lightning rail worker]
+[beldroth miara]
+[airship pilot]
+[olivier rohran]
+[valentino fargloom]
+[kindroth]
+[emry]
+[sterling]
+[vash]
+[divik]
+[rubber farmer]
+[tirrel|language training]
+[bethore the dark one]
+[aetherborn librarain]
+[king alfon]
+"a"
+[emry]
+"aarakocra"
+[king]
+"abandoned"
+[bethore the dark one]
+"abilities"
+[bethore the dark one]
+"ability"
+[bethore the dark one]
+"abyssal"
+[elven council stuff]
+"abjuration"
+[valentino fargloom]
+[emry]
+"able"
+[kindroth]
+"aboard"
+[isra|repeating a sending from kindroth]
+[firbolg male barkeep]
+[alka]
+[orden|questioning]
+[tirrell]
+[vesanz]
+[tirrel]
+[sting]
+[orden]
+[gnome carriage salesman]
+[isra]
+[bethore the dark one]
+[jorn]
+"about"
+[orden]
+"accused"
+[king]
+"access"
+[isra]
+"act"
+[alka]
+[enala]
+[sarril]
+[tirrel]
+[gnome carriage salesman]
+[shantala]
+[sting]
+"actually"
+[king]
+"active"
+[king]
+[bethore the dark one]
+"action"
+[tirrell]
+[sting]
+"add"
+[flare]
+"adding"
+[wendell]
+[runehead]
+[bethore the dark one]
+"adventurers"
+[flare]
+"adventuring"
+[beldroth miara]
+"aeons"
+[eve|caring]
+"afraid"
+[alka]
+"after"
+[sting]
+[firbolg male uncomfortable]
+[samen gnome]
+[tirrel]
+[tirrell]
+[yulia]
+[isra]
+[king alfon]
+"again"
+[tirrell]
+[valentino fargloom]
+"against"
+[sting]
+"agreed"
+[orden]
+[king]
+"agreement"
+[firbolg male barkeep]
+"ago"
+[skyrim voice]
+[sting]
+[orden|teaching]
+[tirrell]
+[tirrel]
+"ah"
+[airship pilot]
+[tirrell]
+"air"
+[tirrell]
+"aid"
+[isra]
+"akin"
+[tirrell]
+[willowisp]
+[isra]
+[kindroth]
+"already"
+[aasimar]
+[aasimar male]
+[vesanz]
+[tirrel]
+"alright"
+[firbolg male barkeep]
+"alchemist"
+[kana]
+[sting]
+"alcohol"
+[alka]
+[tirrell]
+"also"
+[tirrell]
+"altar"
+[isra]
+"altair"
+[selanar]
+"alter"
+[sting|exasperated]
+[isra]
+"ale"
+[jorn]
+"alfon"
+[orden]
+[sting]
+[sterling]
+"always"
+[tirrell]
+"alymere"
+[sting]
+[valentino fargloom]
+"alive"
+[tirrell|derogatory]
+[tirrell]
+[sting]
+[orden]
+[flare]
+[tirrel]
+[half elf bartender]
+[willowisp]
+[king]
+"all"
+[orden]
+"alloy"
+[sting]
+"alloi"
+[firbolg male barkeep]
+[enala]
+[enala|(other adventuring party)]
+[sting]
+"almost"
+[sting]
+"alone"
+[tirrell]
+"along"
+[wendell]
+"along]"
+[orden|intimidating]
+[orden| frankly]
+[dr lazurmir| general]
+[dr lazurmir| lecturing]
+[torment]
+[orden]
+[vesanz]
+[tirrell]
+[flare]
+[sting]
+[kanna]
+[isra]
+[tirrel]
+[skyrim guard|under his breath]
+[marlos| guild receptionist male halfing]
+[shantala]
+[eve]
+[beldroth miara]
+[valentino fargloom]
+[divik]
+[tirrel|language training]
+[bethore the dark one]
+"am"
+[common]
+[orden]
+[firbolg male barkeep]
+[tirrell]
+[alka]
+[flare]
+[isra]
+[samen gnome]
+[vesanz]
+[airship pilot]
+[valentino fargloom]
+[emry]
+[sterling]
+[andrin]
+[sting]
+"an"
+[gnome carriage salesman]
+"answer"
+[dr lazurmir| lecturing]
+"answers"
+[tirrell]
+"answering"
+[sterling]
+"ancestor"
+[valentino fargloom]
+[tirrell]
+"ancient"
+[dr lazurmir| general]
+[common]
+[tirrell]
+[orden]
+[sting]
+[tirrell|derogatory]
+[alka]
+[isra]
+[sting|tired]
+[flare]
+[orden|questioning]
+[kanna]
+[emala]
+[tirrel]
+[samen gnome]
+[seer]
+[gnome carriage salesman]
+[willowisp]
+[runehead|dwarf]
+[dwarf]
+[beldroth miara]
+[airship man]
+[airship pilot]
+[runehead]
+[kindroth]
+[emry]
+[sterling]
+[rubber farmer]
+[bethore the dark one]
+"and"
+[varying party voices]
+"andros"
+[tirrell]
+[vesanz]
+"andross"
+[sampson|elven gambler]
+"ante"
+[isra]
+[orden]
+[vesanz]
+"anubis"
+[tirrell]
+[bethore the dark one]
+"angel"
+[sting|questioning politely]
+[orden]
+[vesanz]
+[wendell]
+[shantala]
+[devon]
+[isra]
+[tirrell]
+"any"
+[flare]
+[orden|questioning]
+[tirrell]
+[enala]
+[shantala]
+[sting]
+[orden]
+[valentino fargloom]
+[tirrel|language training]
+"anything"
+[sting]
+"anyway"
+[sting|stern]
+"anywhere"
+[alka|gloating]
+[vesanz]
+"anymore"
+[sting]
+[tirrell]
+[isra]
+[orden|yelling]
+"anyone"
+[isra]
+[vesanz]
+[sting]
+"animal"
+[tirrell|annoyed]
+"annoys"
+[firbolg male barkeep]
+[samen gnome]
+[tirrell]
+[sting]
+"another"
+[sting]
+[flare]
+"apparently"
+[dr lazurmir| lecturing]
+"appreciated"
+[emry]
+"appears"
+[orden]
+"apples"
+[orden]
+"apears"
+[bethore the dark one]
+"apollyon"
+[orden|teaching]
+"arr"
+[wendell]
+"arrive"
+[orden]
+"arcane"
+[faelin]
+"arcanotech"
+[flare]
+"archeologist"
+[orden]
+"archive"
+[orden]
+"archives"
+[vash]
+"art"
+[venali]
+"artifact"
+[andrin]
+"artificer"
+[dr lazurmir| feigned care]
+[common]
+[dr lazurmir| lecturing]
+[concerned womans voice]
+[eve|friendly frankly]
+[orden]
+[torment|tiefling man]
+[tirrell|derogatory]
+[orden|enforcing]
+[vesanz|confused]
+[sting]
+[quiril|thankful]
+[flare]
+[aasimar]
+[aasimar male]
+[orden|teaching]
+[tirrell]
+[isra]
+[kanna]
+[vesanz]
+[shantala]
+[seer confused]
+[seer]
+[skyrim guard]
+[half elf bartender]
+[tabaxi magic shop]
+[tirrel]
+[gnome carriage salesman]
+[willowisp]
+[yulia]
+[runehead]
+[airship pilot]
+[olivier rohran]
+[kindroth]
+[emry]
+[sterling]
+[vash]
+[tirrel|language training]
+[bethore the dark one]
+[jorn]
+"are"
+[emry]
+"area"
+[shantala]
+[sting]
+[vesanz]
+[tirrell]
+[runehead]
+[emry]
+"arent"
+[sting]
+"arms"
+[sting]
+"armor"
+[samen gnome]
+[orden]
+[tirrel]
+[andrin]
+[tirrel|language training]
+[aetherborn librarain]
+"around"
+[common]
+[vesanz]
+[tirrell]
+[venali]
+[yulia]
+[runehead]
+[emry]
+[sterling]
+[orden]
+[rubber farmer]
+[bethore the dark one]
+[king alfon]
+"as"
+[sting|intimidating ]
+[sting]
+[tirrell]
+"ass"
+[kindroth]
+"assume"
+[runehead]
+"assist"
+[isra]
+"associated"
+[orden]
+"aside"
+[sting]
+[orden]
+[tirrell]
+"ask"
+[valentino fargloom]
+[bethore the dark one]
+[tirrell]
+"asked"
+[common]
+[sting|intimidating ]
+[firbolg male barkeep]
+[sting|confused]
+[orden| frankly]
+[sting]
+[flare]
+[tirrell]
+[kanna]
+[enala]
+[marlos| guild receptionist male halfing]
+[half elf bartender]
+[shantala]
+[gnome carriage salesman]
+[bethore the dark one]
+"at"
+[isra]
+"attack"
+[firbolg male barkeep]
+"ate"
+[valentino fargloom]
+"austral"
+[emry]
+"avian"
+[sting]
+[emry]
+[bethore the dark one]
+"away"
+[skyrim voice]
+"awake"
+[orden|teaching]
+"aych"
+[orden|teaching]
+"aye"
+[orden|teaching]
+"b"
+[sting|exclaiming]
+"baath"
+[enala]
+[dead pirate captain]
+"barrens"
+[tirrel]
+"barriers"
+[dr lazurmir| flat]
+[dr lazurmir| caring facade to patient]
+[alka]
+[sting|tired]
+[aasimar]
+[aasimar male]
+[vesanz]
+[tirrell]
+[pariah]
+[verslun]
+[gnome carriage salesman]
+[sting]
+[lightning rail worker]
+[kindroth]
+[firbolg barkeep]
+[orden]
+"back"
+[tirrell|derogatory]
+"backfired"
+[runehead]
+"bastards"
+[isra]
+[vesanz]
+"base"
+[orden]
+"basket"
+[sting|shouting to a city]
+"bath"
+[orden|guessing charades]
+[tirrell]
+"bathroom"
+[sting]
+[orden]
+[kanna]
+[sarril]
+[tirrell]
+[runehead]
+"bad"
+[kanna]
+"baubles"
+[tirrell]
+"balor"
+[sting]
+"bandages"
+[sting]
+"bandages."
+[king]
+"braveblade"
+[sampson]
+"brag"
+[sting]
+"brain"
+[runehead]
+"brains"
+[tirrell]
+"breath"
+[runehead]
+"break"
+[orden]
+"breaking"
+[bethore the dark one]
+"brethren"
+[tirrell]
+"brew"
+[tirrell]
+"brewed"
+[orden]
+"brianyx"
+[enala|(other adventuring party)]
+"bright"
+[pariah]
+"brightfellow"
+[tirrell]
+"bring"
+[bethore the dark one]
+"bringer"
+[kana]
+[flare]
+[willowisp]
+"brought"
+[dr lazurmir| general]
+[dr lazurmir| annoyed]
+[dr lazurmir| flat]
+[common]
+[dr lazurmir| lecturing]
+[eve|caring]
+[tirrell|derogatory]
+[torment|hesitant]
+[torment]
+[isra|repeating a sending from kindroth]
+[orden]
+[sting|conniving]
+[eve]
+[alka]
+[flare]
+[sting]
+[aasimar]
+[aasimar male]
+[orden|teaching]
+[tirrell]
+[vesanz]
+[enala]
+[wendell]
+[marlos| guild receptionist male halfing]
+[tirrel]
+[seers assistant]
+[half elf bartender]
+[shantala]
+[runehead]
+[airship pilot]
+[beldroth miara]
+[king]
+[sterling]
+[bethore the dark one]
+"be"
+[tirrel]
+"beast"
+[sting]
+"beat"
+[sterling]
+"beaten"
+[tirrell]
+"berries"
+[dr lazurmir| lecturing]
+[sting]
+[vesanz]
+[tirrel|language training]
+"best"
+[bethore the dark one]
+"besides"
+[orden]
+[tirrell]
+[isra]
+[sting]
+[bethore the dark one]
+"because"
+[sting]
+[tirrell]
+"become"
+[orden]
+"betray"
+[sting]
+[sting|questioning politely]
+[kanna]
+[gnome carriage salesman]
+[sampson]
+[vash]
+"better"
+[isra]
+"between"
+[bethore the dark one]
+"bethore"
+[tirrell]
+"bed"
+[orden|teaching]
+"bee"
+[sting]
+"beer"
+[orden]
+[sting|questioning politely]
+[tirrell]
+[tirrells mom]
+[vesanz]
+[elasha]
+[isra]
+[runehead]
+[kindroth]
+[sterling]
+[bethore the dark one]
+[jorn]
+"been"
+[sting|confused]
+[orden| frankly]
+[orden|questioning]
+[vesanz]
+[valentino fargloom]
+[bethore the dark one]
+"before"
+[dr lazurmir| general]
+[dr lazurmir| annoyed]
+[dr lazurmir| commanding]
+"behave"
+[orden|questioning]
+"behind"
+[runehead]
+"behyr"
+[orden]
+"beholden"
+[tirrell]
+[pariah]
+[orden]
+[shantala]
+[dead pirate captain]
+[valentino fargloom]
+[bethore the dark one]
+"being"
+[valentino fargloom]
+"beings"
+[bethore the dark one]
+"belittling"
+[enala]
+"beneath"
+[kindroth]
+"benefactor"
+[flare]
+"buried"
+[enala|(other adventuring party)]
+"burn"
+[alka|gloating]
+"burned"
+[tirrell]
+"burning"
+[sting]
+"bush"
+[flare]
+[skyrim guard]
+[tirrell]
+"business"
+[aasimar]
+[aasimar male]
+"business."
+[common]
+[torment]
+[isra|repeating a sending from kindroth]
+[firbolg male barkeep]
+[alka]
+[tirrell]
+[flare]
+[sting]
+[orden|questioning]
+[enala|(other adventuring party)]
+[tirrel]
+[venali]
+[elasha]
+[isra]
+[sampson]
+[runehead]
+[airship pilot]
+[beldroth miara]
+[kindroth]
+[emry]
+[sterling]
+[orden]
+[bethore the dark one]
+[aetherborn librarain]
+"but"
+[our tiefling]
+"butler"
+[sting]
+"bugbears"
+[tirrell]
+"build"
+[tirrel]
+"builder"
+[tirrell]
+"built"
+[vesanz]
+[tabaxi magic shop]
+[gnome carriage salesman]
+[warrick]
+"buy"
+[tirrell]
+"buying"
+[vesanz]
+"bulk"
+[orden]
+"bird"
+[dr lazurmir| general]
+[torment|hesitant]
+[tirrell]
+[tirrells mom]
+[isra]
+[orden]
+"bit"
+[sting]
+[tirrell]
+[tabaxi magic shop]
+[faelin]
+"big"
+[highelf instrument crafter woman]
+"biznes"
+[common]
+[tirrell]
+[alka|goading]
+[alka]
+[vesanz]
+[runehead]
+[hagrol flynthide]
+[kindroth]
+[sterling]
+[vash]
+[rubber farmer]
+[bethore the dark one]
+"by"
+[vesanz]
+"black"
+[vesanz]
+"blacksmith"
+[vesanz]
+"blacksmithing"
+[runehead]
+"blasting"
+[tirrell]
+[orden]
+"blade"
+[tirrell]
+[flare]
+"blades"
+[orden]
+"blame"
+[enala|(other adventuring party)]
+"blue"
+[flare]
+"blueprint"
+[flare]
+"blueprints"
+[orden]
+"blight"
+[tirrell]
+"blobs"
+[aasimar]
+[aasimar male]
+[sting]
+"blows"
+[dr lazurmir| in pain]
+"bloody"
+[tirrel]
+"boarding"
+[vesanz]
+[tirrel]
+"boat"
+[orden|intimidating]
+"botanist"
+[orden|intimidating]
+"botany"
+[marlos| guild receptionist male halfing]
+"bottom"
+[seer]
+[orden]
+[bethore the dark one]
+"both"
+[kanna]
+"bought"
+[marlos| guild receptionist male halfing]
+"bounty"
+[sting|excited]
+"boy"
+[airship pilot]
+"bond"
+[runehead]
+"bone"
+[tirrell]
+"boney"
+[orden|guessing charades]
+[orden]
+[sterling]
+[jorn]
+"book"
+[orden]
+"books"
+[tirrell]
+"boom"
+[orden|teaching]
+"c"
+[orden]
+"capabilities"
+[kindroth]
+"captain"
+[gnome carriage salesman]
+"capital"
+[vesanz]
+"carriage"
+[tirrell]
+[orden]
+"carry"
+[vesanz]
+[shantala]
+[runehead]
+"cart"
+[tirrel]
+[skyrim guard|under his breath]
+[shantala]
+[orden]
+"care"
+[isra|repeating a sending from kindroth]
+"careful"
+[tirrell]
+[isra]
+"cast"
+[vash]
+"caster"
+[sting]
+[shantala]
+"case"
+[se zu|yuan ti chef]
+"cactus"
+[bethore the dark one]
+"cataclysm"
+[firbolg male barkeep]
+"catlike"
+[orden]
+"caused"
+[tirrel|language training]
+"caution"
+[dwarf]
+"cavern"
+[eve|friendly frankly]
+[tirrell|greeting]
+[samen gnome]
+[eve]
+[divik]
+"call"
+[orden|guessing charades]
+[orden]
+[aasimar]
+[aasimar male]
+[sting]
+[vesanz]
+"called"
+[sting|excited exclamation]
+"calling"
+[sting]
+[dwarf]
+[orden]
+"came"
+[ivis the forest dryad]
+[sting]
+[orden]
+[orden|guessing charades]
+[eve]
+[sting|slightly frightened]
+[tirrell]
+[tirrell|declaring]
+[sting|questioning politely]
+[flare]
+[aasimar]
+[aasimar male]
+[kanna]
+[shantala]
+[isra]
+[willowisp]
+[vesanz]
+[runehead]
+[valentino fargloom]
+[king]
+[emry]
+[triton sailor]
+[vash]
+[rubber farmer]
+[andrin]
+[tirrel|language training]
+[bethore the dark one]
+"can"
+[isra|repeating a sending from kindroth]
+"cana"
+[eve]
+[tirrell|questioning]
+[tirrell]
+[wendell]
+[isra]
+"cant"
+[orden]
+"crab"
+[orden]
+"cracking"
+[tirrell]
+"crazy"
+[valentino fargloom]
+"creature"
+[alka]
+[runehead]
+[tirrell]
+[bethore the dark one]
+"creatures"
+[bethore the dark one]
+"created"
+[bethore the dark one]
+"creations"
+[dead pirate captain]
+[bethore the dark one]
+"creator"
+[orden]
+"crest"
+[enala]
+[kindroth]
+"crew"
+[orden]
+"crumbling"
+[tirrell]
+[sterling]
+"crimara"
+[orden]
+"crimes"
+[vesanz]
+"criminal"
+[tirrell]
+"crochety"
+[sterling]
+"crossed"
+[emry]
+[bethore the dark one]
+"currently"
+[sting]
+"curse"
+[willowisp]
+[beldroth miara]
+"cursed"
+[dr lazurmir| annoyed]
+"cured"
+[alka|sarcastic researcher]
+[orden|questioning]
+"cut"
+[elasha]
+"cuts"
+[tirrell]
+[bethore the dark one]
+"certain"
+[flare]
+[bethore the dark one]
+"certainly"
+[bethore the dark one]
+"celestials"
+[firbolg male barkeep]
+[beldroth miara]
+"century"
+[beldroth miara]
+"centuries"
+[orden]
+"charades"
+[isra]
+"charge"
+[runehead]
+"charges"
+[dwarf]
+"charged"
+[yulia]
+[sterling]
+"champion"
+[sterling]
+"champions"
+[venali]
+[sterling]
+[bethore the dark one]
+"change"
+[yulia]
+"changes"
+[bethore the dark one]
+"changed"
+[emala]
+[valentino fargloom]
+[tirrell]
+[bethore the dark one]
+"chaos"
+[tirrel|language training]
+"cheaper"
+[tirrell|derogatory]
+"chess"
+[tirrell]
+[isra]
+[beldroth miara]
+"check"
+[sting]
+"checklist"
+[tirrell]
+[kindroth]
+"church"
+[sting]
+"chill"
+[bethore the dark one]
+"choice"
+[sting]
+"circle"
+[orden]
+[samen gnome]
+[skyrim guard]
+[tirrell]
+[hagrol flynthide]
+"city"
+[flare]
+"cities"
+[willowisp]
+"citizens"
+[orden]
+"cynical"
+[firbolg male barkeep]
+"clarkton"
+[sting]
+[runehead]
+"claws"
+[sting]
+"clay"
+[runehead|dwarf]
+"cleared"
+[tirrel]
+"cleaning"
+[shantala]
+"climb"
+[aasimar]
+[aasimar male]
+[tirrell]
+"cloak"
+[tirrel]
+"closest"
+[tirrell]
+"closely"
+[sting|questioning politely]
+[tirrell]
+[flare]
+"clothes"
+[tirrell]
+"cloud"
+[orden]
+"coarse"
+[flare]
+"coastal"
+[sting]
+"corpses"
+[bethore the dark one]
+"corruptor"
+[isra]
+[orden]
+"cordial"
+[emry]
+"cores"
+[sting]
+[tirrel]
+[tirrel|language training]
+"cost"
+[vesanz]
+"course"
+[sting]
+[isra]
+[orden|questioning]
+[tirrel]
+[tirrell]
+[half elf bartender]
+[shantala]
+[vesanz]
+[runehead]
+[hagrol flynhide]
+[orden]
+[tirrel|language training]
+[bethore the dark one]
+"could"
+[sting]
+"counsel"
+[kindroth]
+[beldroth miara]
+"country"
+[emry]
+"cover"
+[orden]
+"collection"
+[enala|(other adventuring party)]
+"color"
+[tirrell]
+"compared"
+[elasha]
+"compass"
+[sterling]
+"companion"
+[isra]
+"companions"
+[tirrell]
+"comprehend"
+[venali]
+"completely"
+[shantala]
+[our tiefling]
+"combat"
+[sting]
+"combustion"
+[sting]
+"combine"
+[skyrim guard]
+[orden]
+[aasimar]
+[aasimar male]
+[sting]
+[vash]
+"come"
+[orden]
+"comes"
+[verslun]
+[wendell]
+[yulia]
+"coming"
+[tirrell]
+"commission"
+[vash]
+"commissioned"
+[orden]
+"commision"
+[vesanz|questioning]
+[sting|questioning]
+[vesanz]
+[orden]
+[yulia|goddess of moons]
+"common"
+[bethore the dark one]
+"commonly"
+[isra]
+"conspicious"
+[orden]
+"consecrated"
+[dr lazurmir| lecturing]
+"contribution"
+[tirrell]
+"control"
+[tirrell]
+"continet"
+[orden]
+[elasha]
+"continent"
+[highelf instrument crafter woman]
+"conduct"
+[warrick]
+"conductor"
+[beldroth miara]
+"conduit"
+[sting]
+"confront"
+[emry]
+"confuses"
+[orden]
+"confident"
+[tirrell]
+"congratulations"
+[elven council stuff]
+"conjuration"
+[tirrell]
+"connected"
+[dr lazurmir| lecturing]
+"cooperation"
+[orden|teaching]
+"d"
+[orden|relaying dream]
+"darth"
+[isra]
+[bethore the dark one]
+[tirrell]
+"dark"
+[tirrell]
+"dasmos"
+[king]
+"daughter"
+[orden|teaching]
+"dah"
+[torment]
+[tirrell]
+[sting]
+"day"
+[tirrell|questioning]
+[gnome carriage salesman]
+"days"
+[shantala]
+[airship pilot]
+"daylight"
+[kanna]
+[tirrel|language training]
+"danger"
+[tirrell]
+[sting]
+"dangerous"
+[dr laz]
+[dr lazurmir| general]
+[alka|sarcastic researcher]
+[alka|goading]
+[orden|mimicing dr lazurmir]
+[tirrell|mimicing dr lazurmir sound like orden]
+[vesanz|mimicing dr lazurmir]
+[sting|mimicing dr lazurmir]
+"dr"
+[enala|serious]
+[dwarf]
+[king alfon]
+[sting]
+"dragon"
+[orden]
+[tirrel]
+"draw"
+[aasimar]
+[aasimar male]
+"dramatic"
+[orden]
+"drs"
+[tirrell]
+"dreary"
+[sarril]
+"dreadful"
+[orden|questioning]
+"dream"
+[orden|questioning]
+"dreams."
+[devon tavern hafling]
+"dripping"
+[vesanz]
+[sting]
+"drink"
+[orden]
+"drinks"
+[emry]
+"dryads"
+[sting|mimicing dr lazurmir]
+"dr."
+[marlos| guild receptionist male halfing]
+"drop"
+[tirrel]
+"departure"
+[dr lazurmir| dissapointed]
+[sting]
+[sting|slightly frightened]
+[isra]
+"dead"
+[tirrell]
+[bethore the dark one]
+"death"
+[flare]
+[kanna]
+[orden]
+"deal"
+[valentino fargloom]
+[jorn]
+"deals"
+[orden]
+"debt"
+[sting]
+"describing"
+[orden]
+[sting]
+[tirrell]
+"destroy"
+[alka|gloating]
+[bethore the dark one]
+"destroyed"
+[sting]
+"desert"
+[elasha]
+"design"
+[venali]
+"designed"
+[bethore the dark one]
+"decay"
+[willowisp]
+"decided"
+[orden| frankly]
+"detterent"
+[orden| frankly]
+"deterrent"
+[orden]
+"determine"
+[tirrell]
+"detour"
+[tirrell]
+"dedicated"
+[orden|teaching]
+"dee"
+[bethore the dark one]
+"deep"
+[bethore the dark one]
+"deeper"
+[orden]
+"deepen"
+[jorn]
+"deeds"
+[sting]
+[bethore the dark one]
+"devil"
+[kanna]
+"devout"
+[devon tavern hafling]
+"devon's"
+[sting]
+"defeat"
+[tirrell]
+"demigorgon"
+[bethore the dark one]
+"demon"
+[orden]
+"demonic"
+[isra]
+"denied"
+[sterling]
+"denotes"
+[tirrell]
+"dual"
+[vesanz]
+[tirrell]
+"dust"
+[runehead|dwarf]
+[beldroth miara]
+"dungeon"
+[warrick]
+"dwarves"
+[shantala]
+"diplomatic"
+[dr lazurmir| general]
+[dr lazurmir|professional]
+"diagnose"
+[enala|(other adventuring party)]
+[isra]
+[sterling]
+"diamond"
+[orden]
+"dire"
+[faelin]
+"directional"
+[orden]
+"directions"
+[elasha]
+"directly"
+[devon tavern hafling]
+"dispensory"
+[vesanz]
+"disappearance"
+[firbolg male barkeep]
+"dissapeared"
+[dr lazurmir| dissapointed]
+"dissapointing"
+[emry]
+"disseappears"
+[vesanz]
+"discrete"
+[tirrell]
+"district"
+[alka]
+"disowned"
+[sting|intimidating ]
+"dicked"
+[dr lazurmir|surprised]
+[orden]
+[orden|relaying dream]
+[vesanz]
+[marlos| guild receptionist male halfing]
+[tabaxi magic shop]
+[isra]
+[tirrell]
+[sting]
+"did"
+[tirrell|derogatory]
+[orden]
+[yuliana]
+[alka]
+[tirrell]
+[enala]
+[runehead]
+[valentino fargloom]
+"didnt"
+[torment]
+[tirrell|derogatory]
+"die"
+[emry]
+"dieties"
+[firbolg male barkeep]
+[sting]
+[tirrell]
+[isra]
+[sterling]
+"different"
+[king]
+[emry]
+"difficult"
+[vash]
+[divik]
+"divik"
+[elven council stuff]
+[tirrell]
+"divination"
+[beldroth miara]
+"digsite"
+[bell]
+"ding"
+[alka]
+"dying"
+[vesanz|somewhat perturbed]
+[vesanz|questioning]
+[dr lazurmir| flat]
+[ivis the forest dryad]
+[tirrell|derogatory]
+[elora|emotionless]
+[tirrell]
+[torment|tiefling man]
+[orden]
+[vesanz|on me copying stings voice]
+[vesanz]
+[sting]
+[sting|proud]
+[sting|questioning politely]
+[pariah]
+[isra]
+[sarril]
+[tirrel]
+[samen gnome]
+[shantala]
+[gnome carriage salesman]
+[runehead]
+[hagrol flynthide]
+[valentino fargloom]
+[kindroth]
+[emry]
+[sterling]
+[tirrel|language training]
+[bethore the dark one]
+[king alfon]
+"do"
+[isra]
+[orden]
+[tirrell]
+"doctor"
+[tirrell]
+"doctors"
+[orden]
+[sting]
+[tirrell]
+[tirrel|language training]
+"does"
+[flare]
+[orden]
+[emry]
+[tirrell]
+"doesnt"
+[orden|teaching]
+"double"
+[samen gnome]
+[tirrell]
+[orden]
+[runehead]
+[isra]
+[vash]
+[tirrel|language training]
+"down"
+[tirrell]
+[vesanz|confused]
+[aasimar]
+[aasimar male]
+[vesanz]
+[skyrim guard]
+[isra]
+[valentino fargloom]
+[sterling]
+[bethore the dark one]
+"doing"
+[king alfon]
+"donation"
+[vesanz|somewhat perturbed]
+[dr lazurmir| annoyed]
+[dr lazurmir| caring facade to patient]
+[concerned woman voice trailing into the background]
+[eve|whispered]
+[eve|caring]
+[tirrell|derogatory]
+[tirrell|bluntly]
+[vesanz|on me copying stings voice]
+[firbolg male uncomfortable]
+[tirrell]
+[sting|stern]
+[flare]
+[kanna]
+[enala]
+[sting]
+[tirrel]
+[devon]
+[vesanz]
+[half elf bartender]
+[gnome carriage salesman]
+[elasha]
+[willowisp]
+[orden]
+[kindroth]
+[sterling]
+[tirrel|language training]
+[bethore the dark one]
+"dont"
+[alka|goading]
+[sting]
+[bethore the dark one]
+"done"
+[skyrim guard|under his breath]
+"donkeys"
+[sting]
+"do."
+[sting]
+"door"
+[orden|teaching]
+"e"
+[sterling]
+"earn"
+[dr lazurmir| flat]
+[dr lazurmir| lecturing]
+"earned"
+[tirrel]
+[yulia]
+[sterling]
+"each"
+[tirrell]
+"eachother"
+[isra]
+[vash]
+[bethore the dark one]
+"east"
+[tirrel]
+"easier"
+[dr lazurmir| annoyed]
+[runehead]
+[tirrell]
+"eat"
+[eve|friendly frankly]
+[eve]
+[orden]
+[sting]
+"echo"
+[emala]
+"edan"
+[sting]
+"edge"
+[orden|teaching]
+"eeh"
+[orden|teaching]
+"ef"
+[orden]
+"effects"
+[king alfon]
+"eggs"
+[vesanz]
+"egos"
+[orden|teaching]
+"eh"
+[jorn]
+"eir"
+[runehead]
+[tirrell]
+"either"
+[sterling]
+"eight"
+[orden|teaching]
+"el"
+[old fisherman]
+"eladove"
+[yuliana]
+[tirrell]
+[marlos| guild receptionist male halfing]
+[orden|yelling]
+"else"
+[sterling]
+"elder"
+[sting]
+[kanna]
+"eleven"
+[tirrell]
+[bethore the dark one]
+"element"
+[runehead]
+[airship pilot]
+"elemental"
+[beldroth miara]
+"elven"
+[vesanz]
+[orden]
+"elvish"
+[orden|teaching]
+"ell"
+[orden|teaching]
+"elle"
+[orden|teaching]
+"em"
+[flare]
+[librarian]
+"emry"
+[sterling]
+"emerald"
+[runehead]
+[tirrel|language training]
+"emergency"
+[tirrell]
+"emotions"
+[orden|teaching]
+"en"
+[elven council stuff]
+"enchantment"
+[dr lazurmir| flat]
+"enclosure"
+[beldroth miara]
+"encounter"
+[vesanz]
+"encountered"
+[emry]
+"ensures"
+[yulia]
+"ends"
+[kanna]
+"endearing"
+[tirrel]
+[tirrell]
+"ending"
+[tirrell]
+[isra]
+[sterling]
+"endings"
+[tirrel]
+"entail"
+[sting]
+"entrance"
+[emala]
+"entropy"
+[bethore the dark one]
+"enter"
+[vesanz]
+"entertaining"
+[sterling]
+[isra]
+"entities"
+[venali]
+"enveloped"
+[enala]
+"engage"
+[dr lazurmir| lecturing]
+"enlightenment"
+[orden|teaching]
+"eph"
+[orden|teaching]
+"es"
+[valentino fargloom]
+"esssentially"
+[kindroth]
+[vesanz]
+[tirrell]
+"eshnern"
+[sting]
+"ethereal"
+[eve]
+"eve"
+[tirrell]
+[orden|relaying dream]
+[enala|serious]
+[tirrel]
+[valentino fargloom]
+"ever"
+[orden]
+"everwhere"
+[vesanz|somewhat perturbed]
+[vesanz|on me copying stings voice]
+"every"
+[sting]
+"everything"
+[sterling]
+"everywhich"
+[orden]
+[sterling]
+"everyone"
+[dr lazurmir|surprised]
+[enala|(other adventuring party)]
+[willowisp]
+[valentino fargloom]
+[bethore the dark one]
+"even"
+[yulia]
+"event"
+[sting]
+"evil"
+[vesanz|questioning]
+"evlish"
+[elven council stuff]
+"evocation"
+[orden|teaching]
+"ewe"
+[orden|teaching]
+"ex"
+[wendell]
+[venali]
+"expertise"
+[sterling]
+"experience"
+[vesanz|reading out part of the elven script]
+"experiment"
+[dr lazurmir| dissapointed]
+"experiments"
+[sting]
+"expecting"
+[airship pilot]
+"expensive"
+[tirrell]
+"explain"
+[faelin]
+"explosion"
+[tirrell]
+"exploded"
+[bethore the dark one]
+"exact"
+[orden|guessing charades]
+[kanna]
+[orden]
+"exactly"
+[jorn]
+"exalted"
+[bethore the dark one]
+"examples"
+[tirrell]
+"except"
+[orden]
+[tirrel|language training]
+"excuse"
+[sterling]
+"extraplaner"
+[orden]
+"extortion"
+[bethore the dark one]
+"exiled"
+[highelf instrument crafter woman]
+"ey"
+[orden|teaching]
+[kanna]
+"eye"
+[firbolg male barkeep]
+[sting]
+"eyes"
+[orden|teaching]
+"f"
+[tirrell]
+[dead pirate captain]
+[valentino fargloom]
+[vash]
+[tirrel|language training]
+[bethore the dark one]
+"far"
+[the exarch]
+"fargloom"
+[generic]
+"farm"
+[rubber farmer]
+"farms"
+[tirrell]
+"face"
+[yulia]
+[runehead]
+"faces"
+[king]
+"facility"
+[tirrell]
+[orden]
+[bethore the dark one]
+"favor"
+[yulia]
+"favorite"
+[sting]
+"fail"
+[olivier rohran]
+"failed"
+[sting]
+"familiar"
+[orden]
+"frank"
+[runehead]
+"freaky"
+[tirrell|declaring]
+"free"
+[orden]
+"fruit"
+[rubber farmer]
+"fruits"
+[eve]
+[alka]
+[sting|excited exclamation]
+[kanna]
+[orden]
+"friend"
+[eve]
+[tirrell]
+[orden]
+"friends"
+[tirrell]
+"friendly"
+[vesanz]
+"fross"
+[common]
+[elora]
+[tirrell]
+[orden]
+[kanna]
+[kana]
+[flare]
+[enala]
+[marlos| guild receptionist male halfing]
+[sting]
+[willowisp]
+[airship man]
+[emry]
+[tirrel|language training]
+"from"
+[tirrell]
+[emry]
+"front"
+[orden|intimidating]
+[orden]
+"fear"
+[elasha]
+[tirrell]
+"feel"
+[dr lazurmir| feigned care]
+[orden]
+"feeling"
+[orden]
+"feelings"
+[orden]
+[firbolg male barkeep]
+[alka]
+[samen gnome]
+[flare]
+[half elf bartender]
+[shantala]
+[yulia]
+[runehead]
+[kindroth]
+[emry]
+[divik]
+[aetherborn librarain]
+"few"
+[sting]
+[bethore the dark one]
+"fey"
+[tirrell]
+"fellow"
+[orden|mimicing dr lazurmir]
+[tirrell|mimicing dr lazurmir sound like orden]
+[vesanz|mimicing dr lazurmir]
+[sting|mimicing dr lazurmir]
+"fenian"
+[vash]
+"feno"
+[tirrell]
+"further"
+[tirrell]
+"fuck"
+[sting]
+[vesanz]
+[tirrell]
+"fucking"
+[king]
+"future"
+[airship man]
+"fueling"
+[orden|teaching]
+"fuh"
+[orden]
+[king]
+[kindroth]
+"full"
+[tirrell]
+[flare]
+[tirrel|language training]
+"fun"
+[tirrell]
+[isra]
+"funds"
+[isra]
+"funeral"
+[sting|conniving]
+"funnier"
+[tirrell|declaring]
+[isra]
+[orden]
+[valentino fargloom]
+[sterling]
+[bethore the dark one]
+"first"
+[tirrell|joking]
+[tirrell]
+[orden]
+[sting]
+"fire"
+[sting]
+"fireball"
+[bethore the dark one]
+"fiends"
+[orden]
+[flare]
+[tirrell]
+[vesanz]
+[sterling]
+"five"
+[flare]
+"fifteen"
+[kanna]
+[tirrel]
+"fifty"
+[orden]
+[enala|serious]
+"fight"
+[orden]
+"fighting"
+[alka]
+"fixed"
+[skyrim voice]
+[alka]
+[verslun]
+[sarril]
+"finally"
+[dr lazurmir| lecturing]
+[sting]
+[isra]
+[vesanz]
+[tirrel]
+[seer]
+[tirrell]
+[valentino fargloom]
+[sterling]
+[divik]
+[bethore the dark one]
+"find"
+[kanna]
+[orden]
+[yulia]
+"finding"
+[dr lazurmir| intrigued]
+[dr lazurmir| pleased]
+"fine"
+[sting]
+"fine."
+[orden|questioning]
+"finished"
+[flare]
+[aasimar]
+[aasimar male]
+"flare"
+[orden]
+"flask"
+[yuliana]
+"flat"
+[enala]
+[vesanz]
+[enala|(other adventuring party)]
+"flag"
+[bethore the dark one]
+"flayers"
+[tirrell]
+"flesh"
+[tirrell]
+"fleshy"
+[tirrell]
+[emry]
+"fly"
+[hagrol flynthide]
+"flynthide"
+[sting]
+"float"
+[sting]
+[tirrel]
+"floor"
+[orden| frankly]
+[dr lazurmir| general]
+[common]
+[dr lazurmir| lecturing]
+[dr lazurmir| dissapointed]
+[alka|sarcastic researcher]
+[dr]
+[tirrell]
+[orden]
+[vesanz]
+[firbolg male barkeep]
+[alka]
+[alka|gloating]
+[sting|excited exclamation]
+[aasimar]
+[aasimar male]
+[sting]
+[kanna]
+[isra]
+[flare]
+[wendell]
+[skyrim guard|under his breath]
+[devon]
+[half elf bartender]
+[shantala]
+[gnome carriage salesman]
+[elasha]
+[warrick]
+[yulia|goddess of moons]
+[yulia]
+[runehead|dwarf]
+[runehead]
+[beldroth miara]
+[magic items man]
+[valentino fargloom]
+[king]
+[librarian]
+[emry]
+[sterling]
+[firbolg barkeep]
+[tirrel]
+[rubber farmer]
+[bethore the dark one]
+[jorn]
+"for"
+[bethore the dark one]
+"forbidden"
+[orden|boldy]
+"fortify"
+[sting|excited]
+"forest"
+[isra]
+"foreign"
+[vash]
+"forget"
+[bethore the dark one]
+"forgotten"
+[bethore the dark one]
+"form"
+[hagrol flynthide]
+"forms"
+[gnome carriage salesman]
+"former"
+[orden]
+"focus"
+[kanna]
+[gnome carriage salesman]
+"four"
+[kanna]
+"fourty"
+[tirrell]
+"fought"
+[sting|excited]
+[runehead|dwarf]
+[runehead]
+[emry]
+[jorn]
+"found"
+[valentino fargloom]
+"follow"
+[sterling]
+"follower"
+[orden]
+[tirrell]
+"food"
+[sting]
+"fool"
+[orden|teaching]
+"g"
+[sting]
+[tirrel]
+"garrison"
+[tirrell]
+"gate"
+[kindroth]
+"gateways"
+[runehead]
+"gave"
+[orden|teaching]
+"gah"
+[tirrell|derogatory]
+"game"
+[vesanz]
+"grammer"
+[tirrell]
+"grandfather"
+[valentino fargloom]
+"greater"
+[dr lazurmir| general]
+"greetings"
+[bethore the dark one]
+"green"
+[orden]
+"greenhouse"
+[tirrell]
+[airship man]
+"grew"
+[tirrell]
+"gross"
+[kanna]
+[enala]
+[samen gnome]
+"group"
+[enala|serious]
+"ground"
+[enala|serious]
+"ground."
+[tirrell]
+[orden]
+"grow"
+[dr lazurmir| flat]
+[dr lazurmir|surprised]
+[eve|whispered]
+[tirrell|declaring]
+[tirrell]
+[flare]
+[kanna]
+[sting]
+[vesanz]
+[shantala]
+[runehead]
+[kindroth]
+[emry]
+[rubber farmer]
+[tirrel|language training]
+"get"
+[orden]
+"gets"
+[tirrell]
+[kanna]
+[valentino fargloom]
+"getting"
+[orden|teaching]
+"gee"
+[orden|mimicing dr lazurmir]
+[tirrell|mimicing dr lazurmir sound like orden]
+[vesanz|mimicing dr lazurmir]
+[sting|mimicing dr lazurmir]
+"geltris"
+[flare]
+[orden]
+"general"
+[elder hammon]
+[kindroth]
+"guard"
+[king]
+"guards"
+[alka]
+"guess"
+[bethore the dark one]
+"guests"
+[sting]
+[vash]
+"guy"
+[sting|slightly frightened]
+[sting]
+[tirrell]
+[vesanz]
+"guys"
+[vesanz]
+"guild"
+[tirrell]
+"ghost"
+[orden]
+[sting]
+"giant"
+[sting]
+[elora]
+[orden]
+"gift"
+[bethore the dark one]
+"gifts"
+[orden]
+[sting]
+[isra]
+[elasha]
+[kindroth]
+[divik]
+[bethore the dark one]
+"give"
+[kindroth]
+[valentino fargloom]
+[sterling]
+"given"
+[king]
+"giving"
+[sting]
+"glass"
+[sting]
+"glowing"
+[dr lazurmir| lecturing]
+[orden]
+[sting]
+[sting|tired]
+[tirrell]
+[kanna]
+[samen gnome]
+[tirrel]
+[elasha]
+[runehead]
+"go"
+[elora|emotionless]
+[sterling]
+"goal"
+[kanna]
+"goblet"
+[tirrell|annoyed]
+[orden]
+"goblin"
+[orden]
+"goblins"
+[kanna]
+[sting]
+[isra]
+[sampson]
+"got"
+[emala]
+[tirrell]
+[isra]
+[yulia]
+[sting]
+[orden]
+[bethore the dark one]
+"god"
+[tirrell]
+[emry]
+[sterling]
+[isra]
+[bethore the dark one]
+"gods"
+[tirrell]
+[dead pirate captain]
+[tirrel]
+[isra]
+[sterling]
+"goddess"
+[venali]
+"goes"
+[eve|friendly frankly]
+[torment|tiefling man]
+[torment]
+[sting]
+[tirrell]
+[vesanz]
+[marlos| guild receptionist male halfing]
+[eve]
+[shantala]
+[runehead]
+[firbolg barkeep]
+"going"
+[vesanz]
+[yuliana]
+[flare]
+[aasimar]
+[aasimar male]
+[devon]
+"gold"
+[sting]
+"golem"
+[kanna]
+"gollmore"
+[vesanz]
+"gone"
+[torment|hesitant]
+[sting]
+"gonna"
+[dr lazurmir| general]
+[sting|questioning concerned]
+[elora|emotionless]
+[torment]
+[tirrell]
+[isra|repeating a sending from kindroth]
+[skyrim guard]
+[tirrell|derogatory]
+[orden]
+[sting]
+[tirrel]
+[marlos| guild receptionist male halfing]
+[yulia]
+[runehead]
+"good"
+[tirrel|language training]
+"goodbye"
+[orden|enforcing]
+"goods"
+[flare]
+"goods,"
+[sting]
+"goodness"
+[orden|teaching]
+"h"
+[orden|teaching]
+"ha"
+[pariah]
+[willowisp]
+"happened"
+[isra]
+"happenings"
+[orden]
+"happy"
+[elora|emotionless]
+[orden]
+"harm"
+[alka|sarcastic researcher]
+[tirrells mom]
+[kanna]
+[venali]
+[elasha]
+[isra]
+[olivier rohran]
+[tirrell]
+[runehead]
+[kindroth]
+[valentino fargloom]
+[emry]
+[bethore the dark one]
+"has"
+[isra]
+"hasnt"
+[common]
+[alka|gloating]
+[alka]
+[kanna]
+[sarril]
+[flare]
+[sampson]
+[orden]
+[bethore the dark one]
+"had"
+[vesanz]
+[sting]
+"hatch"
+[tirrell|annoyed]
+[tirrell]
+"hate"
+[dr lazurmir| flat]
+[sting|confidently]
+[elder hammon]
+[orden]
+[torment|hesitant]
+[orden|negotiating]
+[tirrell]
+[alka]
+[tirrell|declaring]
+[sting]
+[sting|questioning politely]
+[tirrells mom]
+[kanna]
+[isra]
+[vesanz]
+[tirrel]
+[devon]
+[seer]
+[half elf bartender]
+[shantala]
+[venali]
+[elasha]
+[faelin]
+[willowisp]
+[bronthas]
+[yulia]
+[runehead]
+[lightning rail worker]
+[kindroth]
+[sterling]
+[valentino fargloom]
+[king]
+[emry]
+[tirrel|language training]
+[bethore the dark one]
+"have"
+[firbolg male barkeep]
+[kanna]
+[vesanz]
+"havent"
+[orden]
+"having"
+[hagrol flynthide]
+"hagrol"
+[orden|teaching]
+"hah"
+[samen gnome]
+"halfling"
+[orden]
+"hall"
+[orden]
+"hallowed"
+[flare]
+[kanna]
+[runehead]
+"hand"
+[airship man]
+"hands"
+[andrin]
+"handle"
+[common]
+[tirrell|questioning]
+[sting|confidently]
+[sting]
+[yuliana]
+[sting|conniving]
+[ogre voice]
+[alka]
+[orden|questioning]
+[tirrell]
+[orden]
+[vesanz]
+[warrick]
+[isra]
+[runehead]
+[airship man]
+[airship pilot]
+[beldroth miara]
+[kindroth]
+[bethore the dark one]
+"he"
+[sting|slightly frightened]
+[orden|relaying dream]
+[sting]
+[runehead]
+"hear"
+[sting]
+"hearts"
+[kanna]
+[tirrel]
+[willowisp]
+[emry]
+[orden]
+[andrin]
+[bethore the dark one]
+"heard"
+[flare]
+[sting]
+"head"
+[emry]
+"heading"
+[rubber farmer]
+"heavily"
+[highelf instrument crafter woman]
+"healp"
+[isra]
+"healing"
+[firbolg male barkeep]
+[flare]
+[tirrell]
+[seer]
+[isra]
+[yulia]
+[emry]
+[sterling]
+[bethore the dark one]
+[king alfon]
+"her"
+[half elf bartender]
+"herbs"
+[dr lazurmir| general]
+[common]
+[eve|whispered]
+[ivis the forest dryad]
+[orden]
+[alka]
+[tirrell|declaring]
+[aasimar]
+[aasimar male]
+[tirrell]
+[tirrells mom]
+[kanna]
+[isra]
+[sting]
+[marlos| guild receptionist male halfing]
+[vesanz]
+[samen gnome]
+[yulia|goddess of moons]
+[yulia]
+[valentino fargloom]
+[andrin]
+[tirrel|language training]
+[bethore the dark one]
+[aetherborn librarain]
+[jorn]
+"here"
+[tirrell]
+"here]"
+[sting|proud]
+[sting]
+"hes"
+[alka|sarcastic researcher]
+"heheheha"
+[isra]
+"hey"
+[orden|confused]
+[fire genasi woman]
+[kanna]
+[vesanz]
+[shantala]
+[gnome carriage salesman]
+[willowisp]
+[tirrell]
+[magic items man]
+[valentino fargloom]
+[king]
+[orden]
+"help"
+[kana]
+[tirrell]
+"helps"
+[runehead]
+"helped"
+[dr lazurmir| lecturing]
+[sting]
+[tirrell]
+"helping"
+[sting]
+"hell"
+[dr lazurmir| in pain]
+"hells"
+[lightning rail worker]
+[tirrell]
+[tirrel|language training]
+"hello"
+[kanna]
+"hema"
+[dr lazurmir| general]
+[dr lazurmir| annoyed]
+[elora|gentle but scared]
+[tirrell]
+"hurt"
+[firbolg male barkeep]
+"human"
+[sting]
+"hi"
+[tirrel]
+"hire"
+[alka|sarcastic researcher]
+[sting]
+[sting|slightly frightened]
+[olivier rohran]
+[beldroth miara]
+[kindroth]
+[orden]
+[bethore the dark one]
+"his"
+[elasha]
+"hit"
+[sterling]
+"hidden"
+[marlos| guild receptionist male halfing]
+"highest"
+[orden]
+"hill"
+[alka|sarcastic researcher]
+[orden]
+[alka]
+[tirrell]
+[sting]
+[isra]
+[olivier rohran]
+[bethore the dark one]
+"him"
+[king]
+"himself"
+[orden]
+"hybrid"
+[tirrell|joking]
+[shantala]
+[king]
+[tirrell]
+"hope"
+[tirrells mom]
+"hoping"
+[sting]
+"hobgoblins"
+[gnome carriage salesman]
+"horses"
+[isra]
+"horn"
+[sting]
+"horned"
+[sting]
+"hot"
+[tirrell]
+"hour"
+[tirrell|questioning]
+[shantala]
+"hours"
+[elder hammon]
+[sting|stern]
+[runehead]
+[orden]
+"house"
+[sting|shouting to a city]
+[sting|exclaiming]
+"houses"
+[common]
+[dr lazurmir| lecturing]
+[tirrell|derogatory]
+[tirrell]
+[orden|guessing charades]
+[alka]
+[vesanz]
+[fire genasi woman]
+[sting|questioning politely]
+[sting]
+[tirrells mom]
+[isra]
+[orden]
+[tirrel]
+[king]
+[tirrel|language training]
+"how"
+[dr lazurmir| annoyed]
+[dr lazurmir| flat]
+[isra]
+[devon]
+"hold"
+[seer confused]
+"holding"
+[sting]
+[tirrell]
+"hole"
+[sting]
+"holy"
+[dr lazurmir| general]
+"home"
+[torment]
+[sting]
+[tirrell]
+"honest"
+[tirrell]
+"honker"
+[orden|intimidating]
+[orden| frankly]
+[dr lazurmir| general]
+[dr lazurmir| flat]
+[dr lazurmir| caring facade to patient]
+[dr lazurmir| lecturing]
+[dr lazurmir|professional]
+[eve|whispered]
+[eve]
+[tirrell|annoyed]
+[orden|worried]
+[ivis the forest dryad]
+[orden]
+[tirrell|joking]
+[tirrell|bluntly]
+[sting]
+[highelf instrument crafter woman]
+[torment]
+[orden|guessing charades]
+[sting|slightly frightened]
+[firbolg male barkeep]
+[tirrell]
+[alka]
+[alka|gloating]
+[sting|excited]
+[sting|tired]
+[vesanz]
+[fire genasi woman]
+[sting|questioning politely]
+[flare]
+[aasimar]
+[aasimar male]
+[orden|teaching]
+[orden|questioning]
+[orden|relaying dream]
+[tirrells mom]
+[kanna]
+[isra]
+[sarril]
+[tirrel]
+[wendell]
+[skyrim guard|under his breath]
+[marlos| guild receptionist male halfing]
+[samen gnome]
+[shantala]
+[devon]
+[seer]
+[half elf bartender]
+[tabaxi magic shop]
+[gnome carriage salesman]
+[elasha]
+[faelin]
+[warrick]
+[willowisp]
+[sampson]
+[yulia]
+[hagrol flynhide]
+[beldroth miara]
+[runehead]
+[kindroth]
+[sterling]
+[valentino fargloom]
+[king]
+[firbolg barkeep]
+[vash]
+[divik]
+[andrin]
+[tirrel|language training]
+[bethore the dark one]
+[king alfon]
+"i"
+[dr lazurmir| lecturing]
+"irrelevantif"
+[sting|shouting to a city]
+[dr lazurmir| general]
+[common]
+[dr lazurmir| lecturing]
+[dr lazurmir| dissapointed]
+[sting|questioning]
+[orden]
+[tirrell]
+[sting]
+[isra|repeating a sending from kindroth]
+[sting|conniving]
+[orden|slightly confused]
+[sting|exclaiming]
+[sting|stern]
+[flare]
+[aasimar]
+[aasimar male]
+[pariah]
+[kanna]
+[isra]
+[enala]
+[emala]
+[marlos| guild receptionist male halfing]
+[samen gnome]
+[tirrel]
+[seer confused]
+[seer]
+[vesanz]
+[half elf bartender]
+[shantala]
+[venali]
+[warrick]
+[lightning rail worker]
+[airship pilot]
+[airship man]
+[valentino fargloom]
+[emry]
+[sterling]
+[tabaxi sailor]
+[rubber farmer]
+[tirrel|language training]
+[bethore the dark one]
+[vera|red dragon]
+"is"
+[isra]
+[tirrell]
+[orden]
+"isra"
+[shantala]
+[airship pilot]
+"issue"
+[emry]
+"issues"
+[dr lazurmir| lecturing]
+[tirrell]
+[enala]
+[orden]
+[runehead]
+[airship pilot]
+[sting]
+"isnt"
+[vesanz|questioning]
+[dr lazurmir| intrigued]
+[common]
+[dr lazurmir| lecturing]
+[dr lazurmir| pleased]
+[tirrell|annoyed]
+[orden|worried]
+[orden]
+[ivis the forest dryad]
+[tirrell|derogatory]
+[torment]
+[vesanz]
+[sting]
+[sting|proud]
+[tirrell]
+[alka|gloating]
+[aasimar]
+[aasimar male]
+[orden|questioning]
+[tirrells mom]
+[kanna]
+[isra]
+[kana]
+[enala]
+[enala|(other adventuring party)]
+[enala|serious]
+[tirrel]
+[emala]
+[samen gnome]
+[flare]
+[seer confused]
+[seer]
+[gnome carriage salesman]
+[venali]
+[elasha]
+[faelin]
+[warrick]
+[yulia]
+[runehead|dwarf]
+[dwarf]
+[airship man]
+[olivier rohran]
+[magic items man]
+[runehead]
+[valentino fargloom]
+[king]
+[emry]
+[sterling]
+[triton sailor]
+[firbolg barkeep]
+[divik]
+[andrin]
+[tirrel|language training]
+[bethore the dark one]
+[jorn]
+"it"
+[orden|relaying dream]
+"it’s"
+[dr lazurmir| lecturing]
+[vesanz]
+[orden]
+[sting|exasperated]
+[isra]
+[sting]
+[tirrell]
+[flare]
+[orden|relaying dream]
+[kanna]
+[enala|(other adventuring party)]
+[tirrel]
+[marlos| guild receptionist male halfing]
+[shantala]
+[tabaxi magic shop]
+[venali]
+[warrick]
+[sting|mantra]
+[yulia|goddess of moons]
+[beldroth miara]
+[kindroth]
+[emry]
+[sterling]
+[rubber farmer]
+[jorn]
+"its"
+[kanna]
+[tirrell]
+"item"
+[sting|questioning politely]
+[flare]
+[tirrell]
+[tabaxi magic shop]
+[runehead]
+"items"
+[aasimar]
+[aasimar male]
+"items."
+[sting|conniving]
+"itll"
+[tirrell]
+"it."
+[tirrell]
+"idea"
+[emry]
+"ideals"
+[dr lazurmir| annoyed]
+[tirrell|annoyed]
+[tirrell|questioning]
+[sting]
+[elora|gentle but scared]
+[tirrell]
+[tirrell|derogatory]
+[vesanz]
+[orden]
+[sting|conniving]
+[aasimar]
+[aasimar male]
+[orden|questioning]
+[kanna]
+[isra]
+[enala|(other adventuring party)]
+[enala|serious]
+[samen gnome]
+[half elf bartender]
+[shantala]
+[orden|yelling]
+[yulia]
+[king]
+[sterling]
+[bethore the dark one]
+[king alfon]
+"if"
+[sting|confused]
+[orden| frankly]
+[jorn]
+"ive"
+[bethore the dark one]
+"izurri"
+[vesanz]
+"izuri"
+[isra|repeating a sending from kindroth]
+[tirrell]
+"ill"
+[elven council stuff]
+"illusion"
+[dr lazurmir| general]
+[eve|friendly frankly]
+[eve]
+[orden|worried]
+[orden| frankly]
+[sting|proud]
+[orden|teaching]
+[sting]
+[runehead]
+[tirrel|language training]
+"im"
+[orden]
+"improve"
+[bethore the dark one]
+"implies"
+[sting]
+"important"
+[tirrel]
+"imagine"
+[sterling]
+"imbedded"
+[vesanz|questioning]
+[dr lazurmir| flat]
+[common]
+[sting|excited]
+[elder hammon]
+[skyrim guard]
+[tirrell]
+[tirrell|derogatory]
+[orden|guessing charades]
+[sting]
+[vesanz]
+[firbolg male barkeep]
+[alka]
+[aasimar]
+[aasimar male]
+[orden|teaching]
+[kanna]
+[kana]
+[isra]
+[enala]
+[enala|(other adventuring party)]
+[tirrel]
+[marlos| guild receptionist male halfing]
+[samen gnome]
+[shantala]
+[yulia]
+[runehead|dwarf]
+[dwarf]
+[hagrol flynthide]
+[lightning rail worker]
+[beldroth miara]
+[orden]
+[valentino fargloom]
+[king]
+[emry]
+[sterling]
+[vash]
+[bethore the dark one]
+[king alfon]
+"in"
+[orden]
+"incernerated"
+[orden]
+"incinerated"
+[orden]
+"incomplete"
+[bethore the dark one]
+"insanity"
+[tirrell]
+"instruments"
+[orden]
+"institute"
+[yuliana]
+"insists"
+[kindroth]
+"inside"
+[king]
+"insight"
+[bethore the dark one]
+"introductions"
+[bronthas]
+[king]
+"introduce"
+[torment|tiefling man]
+"interrogate"
+[seer]
+"intertwine"
+[tirrell]
+"interested"
+[dr lazurmir| intrigued]
+[tirrell]
+[flare]
+"interesting"
+[orden]
+"intimidating"
+[sting|excited]
+[dr lazurmir| command]
+[tirrell]
+[flare]
+[king]
+[emry]
+[sterling]
+"into"
+[orden]
+"inebriated"
+[venali]
+"influence"
+[orden]
+"inform"
+[tirrell]
+[flare]
+[beldroth miara]
+[bethore the dark one]
+"information"
+[isra]
+"inhabit"
+[king]
+"inhabiting"
+[divik]
+"ink"
+[tirrel|language training]
+"inn"
+[orden|teaching]
+"j"
+[sting|intimidating ]
+"jack"
+[orden|teaching]
+"jah"
+[orden|teaching]
+"jay"
+[ivis the forest dryad]
+[orden]
+[sting|exasperated]
+[sting]
+[sting|stern]
+[tirrell]
+[sarril]
+[shantala]
+[vesanz]
+[gnome carriage salesman]
+[warrick]
+[runehead]
+[airship man]
+"just"
+[isra]
+"justice"
+[orden|relaying dream]
+"jedi"
+[vesanz]
+[samen gnome]
+"job"
+[tirrel]
+"jobs"
+[skyrim guard]
+"jotumheim"
+[isra]
+"journal"
+[devon]
+"*soundsofgibberish*"
+[orden|teaching]
+"k"
+[runehead]
+"kadrel"
+[runehead]
+"kadrels"
+[orden|teaching]
+"kah"
+[orden|teaching]
+"kay"
+[tirrell]
+"kanna"
+[tirrell]
+"kranky"
+[tirrell]
+[isra]
+"krimara"
+[wendell]
+[samen gnome]
+"kept"
+[tirrell]
+[isra|repeating a sending from kindroth]
+[sting]
+[enala|serious]
+[king]
+[tirrel]
+"keep"
+[sting]
+"keeps"
+[faelin]
+[vesanz]
+[sting]
+"key"
+[aetherborn librarain]
+"kenku"
+[tirrell]
+"kurath"
+[korodar the exarch]
+"khaos"
+[ogre voice]
+[alka]
+[enala|serious]
+[tirrell]
+[sting]
+[orden]
+"kill"
+[tirrel]
+[sting]
+[isra]
+[valentino fargloom]
+"killed"
+[orden|mimicing dr lazurmir]
+[tirrell|mimicing dr lazurmir sound like orden]
+[vesanz|mimicing dr lazurmir]
+[sting|mimicing dr lazurmir]
+"kimise"
+[bethore the dark one]
+"kin"
+[orden|guessing charades]
+[tirrell]
+[enala|(other adventuring party)]
+[isra]
+[emry]
+[bethore the dark one]
+[aetherborn librarain]
+"kind"
+[olivier rohran]
+[vesanz]
+[jorn]
+"king"
+[vesanz]
+"kingdom"
+[beldroth miara]
+"kingdoms"
+[sting]
+"klay"
+[firbolg male barkeep]
+[orden|questioning]
+[sterling]
+"knew"
+[bethore the dark one]
+"knight"
+[dr lazurmir| lecturing]
+[tirrell|derogatory]
+[tirrell]
+[torment]
+[sting]
+[vesanz]
+[orden|questioning]
+[pariah]
+[kanna]
+[orden]
+[tirrel]
+[samen gnome]
+[half elf bartender]
+[kindroth]
+[valentino fargloom]
+[sterling]
+[bethore the dark one]
+"know"
+[tirrell]
+[kindroth]
+"knowing"
+[dr lazurmir| flat]
+[dr lazurmir| lecturing]
+"knowledge"
+[emry]
+[sterling]
+[bethore the dark one]
+"known"
+[sting]
+"koombyah"
+[orden|teaching]
+[orden]
+"l"
+[vesanz|reading out part of the elven script]
+"lab"
+[emry]
+"large"
+[tirrell]
+"larger"
+[vesanz]
+[tirrell]
+[sterling]
+[bethore the dark one]
+"last"
+[vesanz]
+[sting]
+[orden]
+"laser"
+[sting]
+"lady"
+[sting]
+"later"
+[dr lazurmir| general]
+[orden]
+"lazurmir"
+[orden]
+"lazurmirs"
+[venali]
+[willowisp]
+"land"
+[isra]
+"lands"
+[sting|questioning]
+"language"
+[tirrell]
+"languages"
+[orden]
+"learn"
+[tirrell]
+"learned"
+[tirrell]
+[kanna]
+[enala]
+[shantala]
+"least"
+[sterling]
+"lead"
+[sting]
+"leads"
+[concerned woman voice trailing into the background]
+[sting|purposefully normal voice]
+[tirrell]
+[orden]
+[bethore the dark one]
+"leave"
+[tirrell]
+"leaving"
+[dr lazurmir| annoyed]
+[orden]
+[isra]
+[king]
+"less"
+[emry]
+"lesser"
+[dr lazurmir| caring facade to patient]
+[tirrell]
+[aasimar]
+[aasimar male]
+[vesanz]
+[isra]
+[valentino fargloom]
+"let"
+[sting]
+[tirrell]
+[orden|yelling]
+"lets"
+[tirrell]
+"letter"
+[sting]
+"letters"
+[sting]
+"leeches"
+[dr lazurmir| lecturing]
+[samen gnome]
+[jorn]
+"left"
+[orden|relaying dream]
+[dead pirate captain]
+"legend"
+[valentino fargloom]
+"legends"
+[isra|repeating a sending from kindroth]
+[firbolg barkeep]
+"luck"
+[tirrel]
+"luckily"
+[sampson]
+"lucky"
+[orden]
+[flare]
+[beldroth miara]
+[king]
+[aetherborn librarain]
+"library"
+[flare]
+"librarian"
+[orden]
+"listen"
+[sting|confidently]
+"listened"
+[kanna]
+[isra]
+[vesanz]
+[tirrell]
+"little"
+[enala]
+"literal"
+[orden]
+"literally"
+[sting]
+[sterling]
+"lie"
+[sting|excited]
+[tirrell|derogatory]
+[tirrell]
+"live"
+[tirrell]
+"lives"
+[tirrell]
+"liven"
+[vesanz]
+[tirrell]
+[beldroth miara]
+"life"
+[isra]
+"light"
+[runehead]
+[sting]
+"lightning"
+[common]
+[eve|friendly frankly]
+[tirrell|derogatory]
+[vesanz]
+[tirrell]
+[orden]
+[sting|confused]
+[orden| frankly]
+[firbolg male uncomfortable]
+[sting|questioning politely]
+[aasimar]
+[aasimar male]
+[sting]
+[enala|(other adventuring party)]
+[eve]
+[runehead]
+[dwarf]
+[hagrol flynthide]
+[hagrol flynhide]
+[airship pilot]
+[olivier rohran]
+[tirrel]
+[tirrel|language training]
+"like"
+[sting]
+"likes"
+[kanna]
+"lily"
+[sting|intimidating ]
+"limp"
+[venali]
+"limited"
+[flare]
+"line"
+[runehead]
+"lyrandar"
+[sting]
+[beldroth miara]
+[bethore the dark one]
+"lord"
+[tirrel]
+"lords"
+[concerned womans voice]
+[willowisp]
+"lost"
+[isra]
+"lost."
+[yuliana]
+[tirrell]
+"lose"
+[isra]
+"located"
+[bethore the dark one]
+"locked"
+[dr lazurmir| annoyed]
+[elora|emotionless]
+[sting]
+[tirrell]
+"lot"
+[sting]
+"loudly"
+[orden]
+"love"
+[sting]
+"low"
+[tirrell]
+"lower"
+[orden]
+"logic"
+[tirrell|derogatory]
+[sting]
+[tirrells mom]
+[orden]
+[tirrell]
+[valentino fargloom]
+"long"
+[tirrell]
+"longswords"
+[tirrells mom]
+"longer"
+[common]
+[dr lazurmir| caring facade to patient]
+[sting|confused]
+[orden| frankly]
+[flare]
+[aasimar]
+[aasimar male]
+[kanna]
+[tirrel]
+[sting]
+[tirrell]
+"look"
+[orden]
+[sting]
+[tirrell]
+[dwarf]
+[olivier rohran]
+[sterling]
+"looks"
+[firbolg male barkeep]
+"looked"
+[orden]
+[tirrell]
+[kanna]
+[vesanz]
+[flare]
+[half elf bartender]
+[tabaxi magic shop]
+[shantala]
+[beldroth miara]
+[librarian]
+"looking"
+[orden|teaching]
+"m"
+[orden|teaching]
+"ma"
+[hagrol flynhide]
+"machete"
+[alka]
+[aasimar]
+[aasimar male]
+[orden]
+[runehead]
+[airship pilot]
+[bethore the dark one]
+[jorn]
+"made"
+[highelf instrument crafter woman]
+"maey"
+[sting|questioning politely]
+[flare]
+[tirrell]
+[kanna]
+[tirrel]
+[half elf bartender]
+[warrick]
+[sting]
+[orden]
+[divik]
+[bethore the dark one]
+"magic"
+[aasimar]
+[aasimar male]
+"magical"
+[tirrell|declaring]
+"mail"
+[emry]
+"major"
+[tirrell|annoyed]
+[orden|guessing charades]
+[tirrell|derogatory]
+[tirrell]
+[sting|questioning politely]
+[flare]
+[sting]
+[orden]
+[shantala]
+[yulia|goddess of moons]
+[hagrol flynhide]
+[kindroth]
+[king]
+[vesanz]
+[bethore the dark one]
+"make"
+[tirrell]
+"makes"
+[orden|worried]
+[valentino fargloom]
+"making"
+[tirrell|declaring]
+"male"
+[sting]
+[orden|questioning]
+[kana]
+[sterling]
+[tirrell]
+"man"
+[isra]
+"managerie"
+[tirrell]
+[runehead]
+"managed"
+[flare]
+[enala]
+[tabaxi magic shop]
+[isra]
+[dead pirate captain]
+[gnome carriage salesman]
+[magic items man]
+[aetherborn librarain]
+"many"
+[tirrel|language training]
+"map"
+[triton sailor]
+"marv"
+[triton sailor]
+"marvas"
+[sterling]
+"mark"
+[enala|(other adventuring party)]
+"marks"
+[sterling]
+"marked"
+[tirrell]
+"mask"
+[bethore the dark one]
+"material"
+[orden]
+[fire genasi woman]
+[tirrell]
+[kanna]
+[isra]
+[vesanz]
+[sting]
+[yulia]
+[king]
+[bethore the dark one]
+"may"
+[orden]
+[tirrell]
+[sting|questioning politely]
+[flare]
+[isra]
+[sting]
+[hagrol flynhide]
+[beldroth miara]
+"maybe"
+[lightning rail worker]
+[vesanz]
+"mayor"
+[orden]
+"mayors"
+[the exarch]
+"mr"
+[vesanz|somewhat perturbed]
+[vesanz|questioning]
+[dr lazurmir| caring facade to patient]
+[dr lazurmir| lecturing]
+[eve|friendly frankly]
+[tirrell|annoyed]
+[sting]
+[ivis the forest dryad]
+[elora|gentle but scared]
+[tirrell|greeting]
+[torment|tiefling man]
+[orden]
+[vesanz|on me copying stings voice]
+[vesanz]
+[firbolg male uncomfortable]
+[firbolg male barkeep]
+[alka]
+[sting|excited exclamation]
+[isra]
+[aasimar]
+[aasimar male]
+[orden|questioning]
+[samen gnome]
+[eve]
+[tirrell]
+[runehead]
+[valentino fargloom]
+[emry]
+[sterling]
+[divik]
+[tirrel|language training]
+[bethore the dark one]
+[king alfon]
+"me"
+[tirrell]
+"meat"
+[firbolg male barkeep]
+"meats"
+[orden]
+[sting]
+[hagrol flynthide]
+[tirrell]
+"mean"
+[beldroth miara]
+[orden]
+"means"
+[orden|questioning]
+"means."
+[sting|questioning politely]
+"meaning"
+[tirrell]
+"merchant"
+[bethore the dark one]
+"merging"
+[enala]
+"mermaid"
+[enala]
+[sterling]
+"mess"
+[tirrell]
+"messing"
+[sting]
+"met"
+[sting]
+[runehead]
+"metal"
+[orden|lighthearted ]
+[flare]
+[tirrell]
+[orden]
+[yulia]
+[olivier rohran]
+[valentino fargloom]
+[tirrel|language training]
+"meet"
+[yulia]
+"meeting"
+[vesanz]
+"membership"
+[dr lazurmir| lecturing]
+[sting|confused]
+"men"
+[faelin]
+[bethore the dark one]
+"mentioned"
+[isra]
+"menu"
+[dr lazurmir| flat]
+[dr lazurmir| lecturing]
+[sterling]
+"must"
+[sarril]
+"music"
+[isra]
+"musical"
+[tirrell|annoyed]
+[sting]
+[flare]
+[isra]
+[orden]
+[tirrel]
+[runehead]
+[vesanz]
+[beldroth miara]
+[tirrel|language training]
+[bethore the dark one]
+[tirrell]
+"much"
+[hagrol flynthide]
+"multiple"
+[orden|intimidating]
+[dr lazurmir| general]
+[dr lazurmir| dissapointed]
+[sting|excited]
+[vesanz]
+[sting|intimidating ]
+[tirrell]
+[orden]
+[orden|slightly confused]
+[skyrim guard]
+[flare]
+[aasimar]
+[aasimar male]
+[kanna]
+[isra]
+[emala]
+[sting]
+[half elf bartender]
+[venali]
+[yulia]
+[airship man]
+[olivier rohran]
+[valentino fargloom]
+[king]
+[tirrel|language training]
+[bethore the dark one]
+"my"
+[tirrell]
+"mysterious"
+[aasimar]
+[aasimar male]
+"mystical"
+[orden]
+"myself"
+[tirrell]
+"mythril"
+[orden]
+"missing"
+[tirrell]
+[shantala]
+"mission"
+[vesanz]
+"misuses"
+[flare]
+"mithral"
+[orden]
+[flare]
+[isra]
+[marlos| guild receptionist male halfing]
+[elasha]
+[emry]
+[tirrell]
+"might"
+[orden]
+"mimic"
+[orden]
+"mimicry"
+[king]
+[bethore the dark one]
+"mind"
+[orden]
+[alka]
+[valentino fargloom]
+[sterling]
+[bethore the dark one]
+"mine"
+[firbolg barkeep]
+"mines"
+[firbolg male barkeep]
+"mining"
+[dr lazurmir| lecturing]
+"moral"
+[isra]
+"mortal"
+[dr lazurmir| lecturing]
+[elora|emotionless]
+[elora]
+[torment|hesitant]
+[sting|proud]
+[aasimar]
+[aasimar male]
+[tirrell]
+[kanna]
+[isra]
+[wendell]
+[half elf bartender]
+[dead pirate captain]
+[sting]
+[beldroth miara]
+[king]
+[emry]
+[sterling]
+[orden]
+[tirrel|language training]
+"more"
+[dr lazurmir| general]
+[tirrell]
+[flare]
+"morning"
+[half elf bartender]
+[gnome carriage salesman]
+[bethore the dark one]
+"most"
+[venali]
+"mostly"
+[tirrell]
+[bethore the dark one]
+"mother"
+[firbolg male barkeep]
+[emry]
+"mountains"
+[tirrell]
+"movements"
+[sting]
+"mole"
+[samen gnome]
+[orden]
+"monastery"
+[kanna]
+[orden]
+"monster"
+[sting]
+[orden]
+"monsters"
+[tirrell]
+[yulia]
+"month"
+[firbolg male barkeep]
+[skyrim guard|under his breath]
+"months"
+[tirrell]
+[sting]
+"money"
+[tirrell]
+"monk"
+[samen gnome]
+"monks"
+[orden|teaching]
+"n"
+[airship man]
+"natural"
+[dr laz]
+"nature"
+[vera|red dragon]
+"nave"
+[sting]
+"nailed"
+[dr lazurmir| general]
+[flare]
+[tirrell]
+[gnome carriage salesman]
+[isra]
+[sterling]
+[tabaxi sailor]
+[vash]
+[tirrel|language training]
+[bethore the dark one]
+"name"
+[triton sailor]
+"names"
+[pariah]
+"name,"
+[alucard how did i get this]
+"neat"
+[elven council stuff]
+"necromancy"
+[sting]
+"necklace"
+[flare]
+[vesanz]
+[tirrell]
+[kanna]
+[tirrel]
+[shantala]
+[isra]
+[gnome carriage salesman]
+[runehead]
+[airship pilot]
+[orden]
+"need"
+[airship pilot]
+[orden]
+"needs"
+[andrin]
+"needed"
+[sting|confused]
+[firbolg male barkeep]
+[sterling]
+"never"
+[dr lazurmir| general]
+[sting]
+[yulia]
+[orden]
+"new"
+[runehead]
+"news"
+[vash]
+"newcomers"
+[sting]
+[seers assistant]
+[tirrell]
+"next"
+[tirrel]
+"neighborhood"
+[vesanz|reading out part of the elven script]
+[isra]
+"number"
+[sampson]
+"numbers"
+[orden|lighthearted ]
+[flare]
+[orden]
+[lightning rail worker]
+[tirrel|language training]
+"nice"
+[tirrell]
+"nilthar"
+[sting]
+"nyx"
+[isra]
+"nylthar"
+[dr lazurmir| general]
+[common]
+[dr]
+[tirrell]
+[orden]
+[ogre voice]
+[alka]
+[alka|gloating]
+[kanna]
+[runehead]
+[kindroth]
+[king]
+[sterling]
+[tirrel|language training]
+[bethore the dark one]
+"no"
+[bethore the dark one]
+"nor"
+[isra]
+[skyrim guard]
+[dead pirate captain]
+"north"
+[samen gnome]
+"northern"
+[orden]
+[sting]
+[bethore the dark one]
+"normal"
+[shantala]
+"nobles"
+[isra|repeating a sending from kindroth]
+"nosy"
+[dr lazurmir| flat]
+[common]
+[elora|gentle but scared]
+[tirrell]
+[orden]
+[ogre voice]
+[skyrim guard]
+[sting|stern]
+[flare]
+[orden|relaying dream]
+[kanna]
+[isra]
+[skyrim guard|under his breath]
+[sting]
+[venali]
+[faelin]
+[sting|mantra]
+[sampson]
+[yulia|goddess of moons]
+[runehead]
+[beldroth miara]
+[valentino fargloom]
+[emry]
+[bethore the dark one]
+[aetherborn librarain]
+[king alfon]
+"not"
+[king]
+"nothing"
+[sting|stern]
+[flare]
+[tirrell]
+[vesanz]
+[olivier rohran]
+[sterling]
+[bethore the dark one]
+"now"
+[orden]
+"noise"
+[tirrell]
+"non"
+[aetherborn librarain]
+"none"
+[orden|teaching]
+"o"
+[flare]
+"obsessed"
+[sterling]
+"obsidian"
+[isra]
+"obviously"
+[enala|(other adventuring party)]
+[elasha]
+[bethore the dark one]
+"object"
+[sting]
+"objects"
+[sting]
+[bethore the dark one]
+"ocean"
+[tirrell]
+[tirrel]
+"odd"
+[isra]
+"odditity"
+[kanna]
+"oddities"
+[sting|shouting to a city]
+[common]
+[eve|whispered]
+[tirrell|derogatory]
+[kindroth]
+[orden]
+[isra|repeating a sending from kindroth]
+[sting]
+[sting|exclaiming]
+[vesanz]
+[alka]
+[isra]
+[tirrell]
+[flare]
+[aasimar]
+[aasimar male]
+[orden|relaying dream]
+[pariah]
+[kanna]
+[enala]
+[enala|(other adventuring party)]
+[emala]
+[tirrel]
+[wendell]
+[skyrim guard|under his breath]
+[samen gnome]
+[shantala]
+[skyrim guard]
+[half elf bartender]
+[dead pirate captain]
+[venali]
+[selanar]
+[elasha]
+[willowisp]
+[yulia]
+[runehead]
+[hagrol flynthide]
+[lightning rail worker]
+[beldroth miara]
+[airship man]
+[valentino fargloom]
+[emry]
+[sterling]
+[vash]
+[bethore the dark one]
+[aetherborn librarain]
+[jorn]
+"of"
+[sting|proud]
+[emry]
+"often"
+[firbolg male barkeep]
+[vesanz]
+[orden|questioning]
+[tirrell]
+[tirrel]
+[runehead]
+"off"
+[flare]
+[king]
+"offer"
+[magic items man]
+"offers"
+[bethore the dark one]
+"offered"
+[sting]
+"off,"
+[orden|worried]
+[orden|guessing charades]
+[orden|smiting through the fucking ceiling]
+[tirrell]
+[orden|teaching]
+[sting]
+[orden]
+[seers assistant]
+[isra]
+[librarian]
+[vash]
+"oh"
+[sting|intimidating ]
+[kanna]
+[sting]
+"ok"
+[alka]
+[sterling]
+"old"
+[samen gnome]
+"older"
+[hagrol flynthide]
+"oldest"
+[common]
+[dr lazurmir| lecturing]
+[tirrell|derogatory]
+[tirrell]
+[vesanz]
+[sting]
+[sting|slightly frightened]
+[alka]
+[flare]
+[kanna]
+[enala]
+[tirrel]
+[enala|serious]
+[isra]
+[orden]
+[airship man]
+[beldroth miara]
+[runehead]
+[kindroth]
+[king]
+[sterling]
+[vash]
+[tirrel|language training]
+[bethore the dark one]
+[aetherborn librarain]
+"on"
+[tirrell]
+"ona"
+[kanna]
+[tirrel]
+[tirrell]
+[elasha]
+[king]
+"once"
+[dr lazurmir| general]
+[common]
+[tirrell]
+[sting]
+[firbolg male barkeep]
+[alka]
+[orden]
+[flare]
+[kanna]
+[enala]
+[enala|serious]
+[isra]
+[vesanz]
+[seer]
+[willowisp]
+[runehead]
+[hagrol flynthide]
+[valentino fargloom]
+[kindroth]
+[emry]
+[sterling]
+[divik]
+[bethore the dark one]
+"one"
+[orden]
+[shantala]
+[sting]
+[runehead]
+[tirrell]
+[bethore the dark one]
+"ones"
+[dr lazurmir| general]
+[elora|gentle but scared]
+[orden|guessing charades]
+[firbolg male barkeep]
+[tirrell]
+[marlos| guild receptionist male halfing]
+[valentino fargloom]
+"only"
+[orden|teaching]
+[sting]
+"ooh"
+[isra]
+[vesanz]
+"operations"
+[tirrel]
+"open"
+[kindroth]
+"opened"
+[vesanz|questioning]
+[common]
+[orden|guessing charades]
+[vesanz]
+[sting|questioning politely]
+[flare]
+[tirrell]
+[marlos| guild receptionist male halfing]
+[tirrel]
+[sting]
+[runehead]
+[hagrol flynhide]
+[orden]
+[king]
+[sterling]
+[bethore the dark one]
+[jorn]
+"or"
+[selanar]
+[tirrell]
+[yulia]
+[sterling]
+"oracle"
+[orden]
+"oranges"
+[sting]
+[tirrell]
+"orb"
+[bethore the dark one]
+"orro"
+[sting]
+[sterling]
+"order"
+[orden]
+[tirrell]
+"orden"
+[vesanz]
+"organizations"
+[sterling]
+"oriana"
+[tirrell]
+[bethore the dark one]
+"original"
+[emry]
+[sterling]
+"ostral"
+[flare]
+[enala]
+[sarril]
+[tirrel]
+[orden]
+[emry]
+[bethore the dark one]
+"other"
+[dr lazurmir| intrigued]
+[dr lazurmir| pleased]
+[orden]
+[tirrell]
+[emry]
+[bethore the dark one]
+[aetherborn librarain]
+"others"
+[elora|emotionless]
+[vesanz]
+[tirrell]
+[sting]
+[tirrel]
+[dead pirate captain]
+[bronthas]
+[runehead]
+[beldroth miara]
+[isra]
+[bethore the dark one]
+"our"
+[sting]
+"ours"
+[vesanz|somewhat perturbed]
+[alka|sarcastic researcher]
+[eve|whispered]
+[vesanz|on me copying stings voice]
+[sting|excited]
+[sting]
+[tirrell]
+[kanna]
+[orden]
+[enala]
+[tirrel]
+[seer]
+[runehead|dwarf]
+[dwarf]
+[valentino fargloom]
+[rubber farmer]
+"out"
+[alka]
+"outpost"
+[tirrel]
+"outside"
+[common]
+[flare]
+[shantala]
+[orden]
+"over"
+[alka]
+"overun"
+[tirrell]
+[tirrel]
+[half elf bartender]
+[valentino fargloom]
+[bethore the dark one]
+"own"
+[samen gnome]
+"owner"
+[orden]
+"oy"
+[orden|teaching]
+"p"
+[orden|teaching]
+"pa"
+[orden|guessing charades]
+"paper"
+[orden|guessing charades]
+"papers"
+[tirrell]
+"parrot"
+[orden|guessing charades]
+"parchment"
+[lightning rail worker]
+"part"
+[orden]
+"parts"
+[tirrell]
+[enala|serious]
+[sting]
+[isra]
+"party"
+[orden]
+"particular"
+[tirrell]
+"pariah"
+[isra|slightly shouted]
+"parley"
+[flare]
+"packed"
+[valentino fargloom]
+"pass"
+[sterling]
+"passageways"
+[bethore the dark one]
+"passive"
+[orden]
+[valentino fargloom]
+"past"
+[seer]
+"pasts"
+[tirrell]
+[valentino fargloom]
+[sterling]
+"path"
+[dr lazurmir| annoyed]
+[dr lazurmir| dissapointed]
+"pathetic"
+[vesanz]
+"patience"
+[tirrell|derogatory]
+"pawn"
+[vesanz]
+"pay"
+[vesanz]
+"paid"
+[vash]
+"painter"
+[enala|(other adventuring party)]
+"painted"
+[alka]
+"painless"
+[bethore the dark one]
+"pale"
+[tirrel]
+"precautions"
+[sting]
+[tirrell]
+[tirrel]
+"pretty"
+[tirrell]
+"price"
+[sting]
+"privacy"
+[vesanz]
+"private"
+[bethore the dark one]
+"prince"
+[tirrell]
+"princess"
+[runehead]
+"properly"
+[flare]
+"proposing"
+[sting]
+[tirrell]
+[vesanz]
+[shantala]
+[warrick]
+[orden]
+"probably"
+[skyrim guard]
+[sting]
+[faelin]
+"problem"
+[yuliana]
+[bethore the dark one]
+"problems"
+[tirrell]
+"prosperous"
+[sterling]
+"proclaimed"
+[vesanz]
+[orden]
+"protect"
+[orden]
+"protection"
+[sting|proud]
+"proud"
+[tirrel|language training]
+"profession"
+[dr lazurmir| lecturing]
+"progress"
+[sterling]
+"project"
+[alka]
+"projects"
+[elora|gentle but scared]
+[orden|negotiating]
+[bethore the dark one]
+"promise"
+[kanna]
+"prone"
+[eve|whispered]
+"psst"
+[tirrel]
+"pepper"
+[kanna]
+"persuasion"
+[tirrell|declaring]
+[tirrell]
+[tirrel]
+"person"
+[tirrel]
+"persons"
+[orden]
+[isra]
+[tirrell]
+[beldroth miara]
+"perhaps"
+[dr lazurmir| general]
+[dr lazurmir|professional]
+"pestilence"
+[orden|teaching]
+"pee"
+[sting|excited]
+[orden]
+[vesanz]
+[tirrell]
+[tirrel]
+[samen gnome]
+[half elf bartender]
+[yulia|goddess of moons]
+[sting]
+[airship pilot]
+[olivier rohran]
+"people"
+[vesanz]
+"public"
+[isra]
+"purified"
+[dr lazurmir| intrigued]
+[dr lazurmir| caring facade to patient]
+[dr lazurmir| pleased]
+[firbolg male barkeep]
+[tirrell]
+"put"
+[tirrell]
+"putting"
+[orden]
+"pull"
+[dr lazurmir| lecturing]
+"philosphy"
+[vesanz]
+[enala]
+"pirates"
+[bethore the dark one]
+"pits"
+[tirrell|derogatory]
+[tirrell]
+[orden]
+"piece"
+[tirrel]
+"pink"
+[elder hammon]
+[tirrell]
+[samen gnome]
+[orden]
+[sting]
+[emry]
+[tirrel|language training]
+"place"
+[emry]
+"places"
+[tirrell|declaring]
+"plate"
+[orden|relaying dream]
+"plagueis"
+[tirrell|derogatory]
+"playing"
+[tirrell]
+"plan"
+[kindroth]
+"planar"
+[tirrell|derogatory]
+"plant"
+[orden]
+"plants"
+[sting]
+[tirrell]
+[kindroth]
+[bethore the dark one]
+"plane"
+[emry]
+"planes"
+[skyrim guard]
+[orden]
+[tirrel|language training]
+"please"
+[aasimar]
+[aasimar male]
+"pleasure"
+[tirrel]
+"pop"
+[sting]
+"pope"
+[tirrell]
+[bronthas]
+"portal"
+[valentino fargloom]
+"portals"
+[vesanz]
+"possible"
+[sting]
+[orden]
+"possibly"
+[orden|boldy]
+"position"
+[emry]
+"posing"
+[orden|questioning]
+"podium"
+[tabaxi magic shop]
+[tirrell]
+"potion"
+[yulia]
+"power"
+[orden|intimidating]
+[bethore the dark one]
+"powers"
+[elora]
+[tirrel]
+"powerful"
+[firbolg male barkeep]
+[tirrell]
+"point"
+[orden|teaching]
+"q"
+[bethore the dark one]
+[sting]
+"quest"
+[gnome carriage salesman]
+[kindroth]
+[sterling]
+"question"
+[dr lazurmir| lecturing]
+[vesanz]
+"questions"
+[orden|teaching]
+"queue"
+[tirrell]
+[bethore the dark one]
+"queen"
+[alka]
+[runehead]
+[sting]
+"quick"
+[gnome carriage salesman]
+"quickly"
+[tirrell]
+[tirrel]
+[shantala]
+[elasha]
+[beldroth miara]
+[bethore the dark one]
+"quite"
+[sting]
+"quietly"
+[yuliana]
+"100"
+[flare]
+[sting]
+[kanna]
+"11"
+[orden|teaching]
+"r"
+[vis]
+[emry]
+[orden]
+"raphine"
+[tirrell]
+"rapier"
+[emry]
+"rarely"
+[emry]
+"race"
+[bethore the dark one]
+"radiance"
+[vesanz]
+"radiant"
+[firbolg male barkeep]
+"raw"
+[orden|teaching]
+"rah"
+[runehead]
+"rail"
+[wendell]
+"random"
+[marlos| guild receptionist male halfing]
+"rank"
+[sterling]
+"represent"
+[runehead]
+"reprimanded"
+[tirrel|language training]
+"repeat"
+[isra]
+"replace"
+[tirrell]
+"repopulating"
+[king]
+"reports"
+[tirrell]
+"reportedly"
+[alka]
+[tirrell]
+[king alfon]
+"request"
+[tirrell]
+"requests"
+[isra]
+"requesting"
+[dr lazurmir| lecturing]
+"requires"
+[dr lazurmir| lecturing]
+[emry]
+"reach"
+[orden]
+"read"
+[shantala]
+"ready"
+[sting|excited]
+[alka|goading]
+[alka]
+[tirrel]
+[tirrell]
+[sting|mantra]
+[sting]
+"real"
+[sting]
+"reality"
+[tirrell]
+"realize"
+[tirrell|annoyed]
+[tirrell|derogatory]
+[sting]
+[tirrell]
+[tabaxi magic shop]
+[gnome carriage salesman]
+"really"
+[isra]
+"realm"
+[isra|repeating a sending from kindroth]
+"rest"
+[tirrel|language training]
+"restaurant"
+[dr lazurmir| intrigued]
+"results"
+[orden]
+"resume"
+[dr]
+[alka]
+"research"
+[devon]
+[flare]
+"reserved"
+[orden]
+"resort"
+[rubber farmer]
+"resource"
+[seer]
+"resolve"
+[tirrell]
+"recent"
+[vesanz]
+"recognizable"
+[tirrel|language training]
+"recommend"
+[orden|enforcing]
+"retrieving"
+[dr lazurmir| general]
+[vesanz]
+[orden]
+[sting]
+[valentino fargloom]
+[bethore the dark one]
+[king alfon]
+"return"
+[tirrel]
+"reflect"
+[sterling]
+"reward"
+[tirrell]
+"reincarnation"
+[bethore the dark one]
+"related"
+[orden]
+"relation"
+[orden]
+"relationships"
+[enala|serious]
+[vesanz]
+[willowisp]
+[airship pilot]
+[king]
+"remember"
+[bethore the dark one]
+"reminds"
+[enala|(other adventuring party)]
+"remnants"
+[tirrel]
+"renovating"
+[rubber farmer]
+"rubber"
+[sterling]
+"ruby"
+[tirrell]
+"rust"
+[tirrell]
+"rude"
+[jorn]
+"rumors"
+[shantala]
+"rumours"
+[flare]
+[aasimar]
+[aasimar male]
+[airship pilot]
+"run"
+[sting]
+"ripped"
+[enala]
+"rising"
+[eve]
+[tirrell]
+[bethore the dark one]
+"risk"
+[vesanz]
+"rid"
+[orden]
+[sting]
+"ride"
+[tirrell]
+"ritual"
+[elasha]
+"river"
+[orden]
+[vesanz]
+[sting]
+[samen gnome]
+[tirrell]
+[venali]
+"right"
+[runehead]
+"robot"
+[sting|confused]
+"rock"
+[elasha]
+"rose"
+[orden]
+"rough"
+[kindroth]
+"royal"
+[orden]
+"roof"
+[tirrel]
+[devon]
+[flare]
+"rooms"
+[beldroth miara]
+"20"
+[orden|teaching]
+"s"
+[sterling]
+"sapphire"
+[dr lazurmir| lecturing]
+"sacrifice"
+[tirrell]
+"safe"
+[dr lazurmir| general]
+[dr]
+"safety"
+[tirrel]
+"savage"
+[eve]
+[tirrell]
+[valentino fargloom]
+"save"
+[enala]
+[vesanz]
+[bethore the dark one]
+"saw"
+[orden|teaching]
+"sah"
+[vesanz|questioning]
+[dr lazurmir| lecturing]
+[orden]
+[orden|guessing charades]
+[vesanz]
+[flare]
+[sting]
+[warrick]
+[olivier rohran]
+[king]
+[tirrel|language training]
+[bethore the dark one]
+"say"
+[ogre voice]
+[orden|questioning]
+[kana]
+[vesanz]
+[beldroth miara]
+[emry]
+[tirrell]
+"said"
+[tirrell]
+"sailas"
+[vesanz]
+"sailing"
+[tirrell]
+"salt"
+[vesanz]
+[tirrel]
+[tirrell]
+[valentino fargloom]
+[emry]
+"same"
+[orden]
+"sand"
+[sting]
+"scared"
+[sting]
+"scary"
+[bethore the dark one]
+"scales"
+[orden]
+"scammed"
+[sterling]
+"scrying"
+[sting]
+"scenario"
+[dr lazurmir| lecturing]
+"science"
+[hagrol flynhide]
+"scimitars"
+[tirrell]
+"scion"
+[hagrol flynhide]
+"scythes"
+[tirrel]
+"scout"
+[seer]
+"seperate"
+[valentino fargloom]
+[sterling]
+"sepulcher"
+[orden|teaching]
+"sea"
+[bethore the dark one]
+"search"
+[flare]
+"seamstress"
+[bethore the dark one]
+"serpernts"
+[orden]
+"serpent"
+[tirrell]
+"servent"
+[orden]
+"service"
+[sting]
+"secret"
+[orden]
+"secretary"
+[tirrell]
+"secretive"
+[sting|questioning]
+[tirrell]
+[orden]
+[sterling]
+"second"
+[divik]
+"seconds"
+[sting]
+[tirrell]
+[bethore the dark one]
+"set"
+[alka]
+[sting]
+[flare]
+[aasimar]
+[aasimar male]
+[orden|teaching]
+[tirrell]
+[enala]
+[marlos| guild receptionist male halfing]
+[samen gnome]
+[orden]
+[orden|yelling]
+[yulia]
+[king alfon]
+"see"
+[samen gnome]
+"seer"
+[rubber farmer]
+"seeds"
+[isra]
+[tirrel]
+"seeing"
+[runehead]
+[emry]
+[tirrell]
+"seem"
+[dr lazurmir| general]
+[sting]
+[tirrell]
+[venali]
+[willowisp]
+[airship pilot]
+"seems"
+[orden]
+"seemed"
+[firbolg male barkeep]
+"seemingly"
+[sting|confused]
+[orden| frankly]
+[tirrell]
+[orden]
+[seer]
+[sterling]
+"seen"
+[orden|guessing charades]
+"several"
+[sting]
+[sterling]
+"self"
+[vesanz]
+[tirrell]
+[sting]
+[kanna]
+"sell"
+[tirrell]
+"selling"
+[rubber farmer]
+"semblence"
+[bethore the dark one]
+"sense"
+[bethore the dark one]
+"sensed"
+[alka]
+[isra]
+[runehead|dwarf]
+"sent"
+[orden]
+"send"
+[runehead]
+"sending"
+[sting]
+"share"
+[jorn]
+"shady"
+[tirrell]
+[orden]
+"shadow"
+[bethore the dark one]
+"shadows"
+[firbolg male barkeep]
+[orden]
+[flare]
+[tirrell]
+[vesanz]
+[pariah]
+[seers assistant]
+[seer]
+[sting]
+[valentino fargloom]
+[emry]
+[sterling]
+[bethore the dark one]
+"she"
+[tirrell]
+"shes"
+[sting]
+"shell"
+[vesanz]
+[tirrell]
+[airship pilot]
+[airship man]
+"ship"
+[flare]
+"shipping"
+[enala]
+[shantala]
+[isra]
+[runehead]
+[vesanz]
+[airship pilot]
+"ships"
+[sting|stern]
+[tirrell]
+"shit"
+[orden]
+"shivers"
+[sting]
+"shy"
+[sting]
+[tirrell]
+"shop"
+[orden]
+"short"
+[tirrell|annoyed]
+"shorter"
+[triton sailor]
+"shorten"
+[dr lazurmir| general]
+[seer]
+"shortly"
+[dr lazurmir| lecturing]
+[orden]
+[sting|confidently]
+[elder hammon]
+[sting]
+[isra]
+[samen gnome]
+[vesanz]
+[tirrell]
+[shantala]
+[bronthas]
+[olivier rohran]
+[king]
+[bethore the dark one]
+"should"
+[shantala]
+"shouldnt"
+[alka]
+[shantala]
+[valentino fargloom]
+[tirrel|language training]
+"show"
+[enala|(other adventuring party)]
+"showed"
+[orden]
+"sir"
+[tirrell]
+"sister"
+[vash]
+"sitting"
+[orden|relaying dream]
+"sith"
+[samen gnome]
+[skyrim guard]
+[kindroth]
+[orden]
+"side"
+[sterling]
+"sigils"
+[vesanz]
+"sign"
+[orden]
+"significance"
+[tirrell]
+"significant"
+[bethore the dark one]
+"six"
+[runehead]
+"sized"
+[kanna]
+[marlos| guild receptionist male halfing]
+[isra]
+"silver"
+[flare]
+"silvergaurd"
+[isra]
+"silverguard"
+[valentino fargloom]
+[vesanz]
+"simple"
+[valentino fargloom]
+"simply"
+[emry]
+"similar"
+[kanna]
+[jorn]
+"since"
+[sting]
+"sing"
+[enala]
+[vesanz]
+[sting]
+"skeleton"
+[sting]
+"skeletons"
+[tirrel]
+"skills"
+[valentino fargloom]
+"skin"
+[tirrell]
+"slashing"
+[sting|tired]
+"sleep"
+[sting|conniving]
+[sting]
+"sleeping"
+[sting]
+"sleeves"
+[tirrel]
+"slip"
+[firbolg male barkeep]
+"slits"
+[tirrell]
+"slight"
+[orden]
+"slope"
+[tirrel|language training]
+"slowly"
+[sting]
+"smash"
+[sting]
+"smasher"
+[firbolg male barkeep]
+[tirrell]
+[enala|(other adventuring party)]
+[venali]
+"small"
+[vesanz]
+[bethore the dark one]
+"smell"
+[tirrell]
+[vesanz]
+"smith"
+[hagrol flynthide]
+"smiths"
+[tirrell]
+[tabaxi magic shop]
+[sting]
+"snake"
+[orden]
+"sneaking"
+[sting]
+"sniffles"
+[skyrim voice]
+[tirrell|derogatory]
+[orden]
+[sting|proud]
+[tirrell]
+[alka]
+[sting]
+[kanna]
+[flare]
+[half elf bartender]
+[tabaxi magic shop]
+[isra]
+[faelin]
+[valentino fargloom]
+[sterling]
+"so"
+[eve]
+[isra]
+[tirrel|language training]
+"sorry"
+[vesanz]
+[flare]
+[kanna]
+[sting]
+[orden]
+[airship man]
+[tirrell]
+"sort"
+[tirrell]
+[elasha]
+"south"
+[samen gnome]
+"soul"
+[willowisp]
+[isra]
+"souls"
+[orden]
+[sting]
+"sound"
+[tirrell]
+"sounds"
+[dead pirate captain]
+[tirrel]
+[tirrell]
+"soveriegn"
+[sting]
+"solana"
+[orden]
+"soldiers"
+[yuliana]
+"solves"
+[emry]
+"solidarity"
+[orden]
+[isra]
+[vesanz]
+[sting|questioning politely]
+[tirrell]
+[kanna]
+[orden|yelling]
+[beldroth miara]
+[sting]
+[sterling]
+[king]
+[vash]
+[tirrel]
+[rubber farmer]
+[bethore the dark one]
+"some"
+[orden]
+[sting]
+[tirrell]
+[orden|questioning]
+[marlos| guild receptionist male halfing]
+[tirrel]
+[isra]
+[willowisp]
+[kindroth]
+[sterling]
+[bethore the dark one]
+[jorn]
+"something"
+[isra|repeating a sending from kindroth]
+[orden]
+[firbolg male barkeep]
+"sometimes"
+[elora]
+[yuliana]
+[tirrell]
+[marlos| guild receptionist male halfing]
+[sting]
+[emry]
+[orden]
+"someone"
+[tirrell]
+"somone"
+[kanna]
+"son"
+[tirrel]
+[seer]
+[yulia]
+"soon"
+[valentino fargloom]
+"spread"
+[tirrell|questioning]
+"speak"
+[pariah]
+[beldroth miara]
+"speaking"
+[kanna]
+"special"
+[bethore the dark one]
+"specialty"
+[bethore the dark one]
+"specialized"
+[torment|hesitant]
+[half elf bartender]
+[airship pilot]
+"specific"
+[dr lazurmir| intrigued]
+[dr lazurmir| pleased]
+[dr lazurmir| dissapointed]
+[orden|slightly confused]
+"specimen"
+[sting]
+[tirrell]
+[isra]
+"spell"
+[venali]
+"sphere"
+[emry]
+"spire"
+[jorn]
+"spires"
+[tirrell]
+"spice"
+[orden]
+"spine"
+[tirrell]
+"split"
+[dead pirate captain]
+[valentino fargloom]
+"spoke"
+[sting]
+"spontaneous"
+[sting]
+[orden]
+[marlos| guild receptionist male halfing]
+[sterling]
+"start"
+[orden|questioning]
+[airship man]
+"started"
+[sting|proud]
+[valentino fargloom]
+"starting"
+[vesanz]
+"starflame"
+[orden]
+[yulia]
+"statue"
+[sting]
+"statues"
+[tirrell]
+"stave"
+[tirrell]
+"stay"
+[enala]
+"stays"
+[eve]
+[tirrell]
+[shantala]
+[emry]
+"staying"
+[shantala]
+"stairs"
+[dr lazurmir| general]
+[dr lazurmir| commanding]
+[sting]
+"stand"
+[tirrell]
+"strategy"
+[orden]
+"straights"
+[bethore the dark one]
+"stray"
+[isra]
+[tirrell]
+[seer]
+[sterling]
+"strange"
+"strangers"
+[samen gnome]
+"street"
+[vesanz]
+"stroke"
+[sting|questioning politely]
+[tirrell]
+"stronger"
+[isra]
+"steal"
+[isra]
+"stealing"
+[isra|repeating a sending from kindroth]
+"sterling"
+[shantala]
+"stupid"
+[tirrell]
+"stuck"
+[runehead]
+"student"
+[flare]
+[sarril]
+[shantala]
+[tabaxi magic shop]
+[orden]
+"stuff"
+[emry]
+"stirling"
+[sting|excited]
+[orden|lighthearted ]
+[sting|confidently]
+[tirrell]
+[tirrel]
+"stick"
+[dr lazurmir| annoyed]
+[dr lazurmir| flat]
+[seer]
+[vera|red dragon]
+"still"
+[vesanz]
+[flare]
+[tirrell]
+[sting]
+[orden]
+"sting"
+[orden]
+[sarril]
+[tirrell]
+[vesanz]
+[bethore the dark one]
+"stop"
+[flare]
+"store"
+[orden|relaying dream]
+"story"
+[sting]
+"stories"
+[orden|enforcing]
+"stolen"
+[orden|slightly confused]
+"stomach"
+[orden| frankly]
+[warrick]
+[tirrell]
+"stone"
+[kanna]
+"supplies"
+[orden]
+"suppose"
+[tirrell]
+"suprise"
+[dwarf]
+"surprised"
+[orden]
+[tirrell]
+[sting]
+[tirrel]
+[airship pilot]
+[kindroth]
+"sure"
+[tirrell]
+"survive"
+[tirrell]
+"subsist"
+[olivier rohran]
+"subjects"
+[dr lazurmir| lecturing]
+[orden]
+[emry]
+[bethore the dark one]
+"such"
+[tirrell]
+"sucks"
+[tirrel]
+"suspicious"
+[tirrell]
+[isra]
+"suspicion"
+[orden]
+"suggesting"
+[tirrell]
+"suggestion"
+[sting]
+[runehead]
+"suits"
+[vesanz]
+[sting]
+[orden]
+"sun"
+[shantala]
+"sunk"
+[alka]
+[isra]
+[bethore the dark one]
+"swamp"
+[tabaxi sailor]
+"swift"
+[sting]
+[sting|questioning politely]
+"sword"
+[tirrell]
+[sterling]
+"swords"
+[emala]
+[sting]
+"symbol"
+[orden|teaching]
+"t"
+[tirrel]
+"tastes"
+[enala|(other adventuring party)]
+"taters"
+[tirrel]
+"tavern"
+[tirrel]
+"taverns"
+[bethore the dark one]
+"tahrin"
+[tirrell]
+"taxes"
+[korodar the exarch]
+"tainted"
+[dr lazurmir| caring facade to patient]
+[tirrell]
+[orden]
+[flare]
+[sting]
+[tirrel]
+[samen gnome]
+[runehead]
+"take"
+[ivis the forest dryad]
+[vesanz]
+[gnome carriage salesman]
+"takes"
+[alka]
+[tirrel]
+[skyrim guard|under his breath]
+[shantala]
+"taking"
+[enala]
+"tales"
+[sting]
+[flare]
+[tirrell]
+[vash]
+[bethore the dark one]
+"talk"
+"talkative"
+[sting]
+"talked"
+[tirrell|derogatory]
+[orden|questioning]
+[vesanz]
+[samen gnome]
+"talking"
+[tirrell]
+"tall"
+[bethore the dark one]
+"trapped"
+[tirrell]
+"traps"
+[tirrell]
+"trade"
+[vesanz]
+"travels"
+[sterling]
+[bethore the dark one]
+"traveler"
+[shantala]
+[isra]
+"traveling"
+[orden|relaying dream]
+"tragedy"
+[alka]
+"trained"
+[vesanz]
+"transactions"
+[runehead]
+"transit"
+[orden]
+"translate"
+[orden]
+"translates"
+[orden]
+"translation"
+[sting]
+"translucent"
+[elven council stuff]
+"transmutation"
+[tirrell|bluntly]
+[tirrell]
+[sting]
+[valentino fargloom]
+"trust"
+[tirrell]
+"trusting"
+[sterling]
+"true"
+[vesanz]
+"treasure"
+[flare]
+"treasure,"
+[shantala]
+[sterling]
+"tree"
+[vesanz]
+[tirrell]
+[gnome carriage salesman]
+[lightning rail worker]
+"trip"
+[vesanz]
+"trips"
+[valentino fargloom]
+[sterling]
+"trial"
+[valentino fargloom]
+[sterling]
+"trials"
+[sting|intimidating ]
+[orden]
+"tribe"
+[orden]
+"tribes"
+[sterling]
+"tries"
+[sterling]
+"triumph"
+[enala]
+"trifled"
+[sting|mispronouncing tirrell]
+"trill"
+[sting]
+"trills"
+[kanna]
+[tabaxi magic shop]
+"trinkets"
+[isra|repeating a sending from kindroth]
+[tirrell]
+[sting|questioning politely]
+[flare]
+[orden]
+[vesanz]
+[isra]
+"try"
+[tirrell]
+[vesanz]
+[valentino fargloom]
+"trying"
+[airship man]
+"tropos"
+[orden]
+"troubled"
+[sting]
+"turtle"
+[dr lazurmir| command]
+[tirrell]
+"turn"
+[sting|excited]
+"turned"
+[orden|teaching]
+[tirrell]
+"tea"
+[orden]
+"terrarium"
+[bethore the dark one]
+"territory"
+[orden]
+"terrifying"
+[orden]
+"term"
+[beldroth miara]
+[tirrell]
+"terms"
+[emry]
+"techniques"
+[sting]
+"technically"
+[bethore the dark one]
+"test"
+[orden|teaching]
+"tee"
+[tirrell]
+"text"
+[orden|questioning]
+[orden|relaying dream]
+[tirrell]
+[sting]
+[valentino fargloom]
+"tell"
+[valentino fargloom]
+"tells"
+[tirrell]
+"telling"
+[tirrell]
+[elasha]
+[sterling]
+"temple"
+[runehead]
+"tentacle"
+[tirrell]
+"tennents"
+[flare]
+[beldroth miara]
+"twenty"
+[orden]
+[sting]
+[enala]
+[devon]
+[seer]
+[beldroth miara]
+[sterling]
+[tirrell]
+[bethore the dark one]
+"two"
+[vesanz|somewhat perturbed]
+[dr lazurmir| general]
+[common]
+[dr lazurmir|surprised]
+[tirrell]
+[sting]
+[orden]
+[yuliana]
+[vesanz|on me copying stings voice]
+[sting|confused]
+[orden| frankly]
+[firbolg male uncomfortable]
+[firbolg male barkeep]
+[alka]
+[isra]
+[flare]
+[aasimar]
+[aasimar male]
+[kanna]
+[enala]
+[sarril]
+[vesanz]
+[half elf bartender]
+[shantala]
+[elasha]
+[runehead]
+[airship pilot]
+[airship man]
+[kindroth]
+[valentino fargloom]
+[king]
+[emry]
+[tirrel|language training]
+[bethore the dark one]
+"that"
+[elora|emotionless]
+[tirrell]
+[vesanz]
+[skyrim guard]
+[flare]
+[sting]
+[beldroth miara]
+"thats"
+[dr lazurmir| lecturing]
+[elora|emotionless]
+[sting]
+[orden]
+[elora]
+[kanna]
+[tirrel]
+[gnome carriage salesman]
+[valentino fargloom]
+[emry]
+[bethore the dark one]
+"than"
+[dr lazurmir| flat]
+[dr lazurmir| caring facade to patient]
+[sting|excited exclamation]
+[tirrell]
+[gnome carriage salesman]
+[king]
+[tirrel|language training]
+[bethore the dark one]
+"thank"
+[tirrell]
+"thanks"
+[dr lazurmir| lecturing]
+"thanking"
+[vesanz|reading out part of the elven script]
+[skyrim guard|under his breath]
+[marlos| guild receptionist male halfing]
+[tirrel]
+[devon]
+[sting]
+"three"
+[enala|(other adventuring party)]
+[tirrel]
+[sting]
+[elasha]
+"through"
+[orden]
+"throw"
+[sterling]
+"throne"
+[sting|shouting to a city]
+[dr lazurmir| general]
+[dr lazurmir| intrigued]
+[dr lazurmir| flat]
+[common]
+[dr lazurmir| pleased]
+[alka|sarcastic researcher]
+[dr lazurmir|professional]
+[elder hammon]
+[tirrell]
+[tirrell|derogatory]
+[vesanz]
+[kindroth]
+[orden]
+[sting]
+[isra|repeating a sending from kindroth]
+[orden|guessing charades]
+[yuliana]
+[orden|slightly confused]
+[sting|exclaiming]
+[sting|slightly frightened]
+[firbolg male barkeep]
+[alka|goading]
+[alka]
+[isra]
+[tirrell|declaring]
+[flare]
+[aasimar]
+[aasimar male]
+[orden|relaying dream]
+[kanna]
+[kana]
+[enala]
+[tirrel]
+[sarril]
+[enala|serious]
+[emala]
+[marlos| guild receptionist male halfing]
+[samen gnome]
+[shantala]
+[skyrim guard]
+[dead pirate captain]
+[gnome carriage salesman]
+[venali]
+[selanar]
+[elasha]
+[faelin]
+[warrick]
+[willowisp]
+[bronthas]
+[sampson|elven gambler]
+[sampson]
+[yulia]
+[runehead]
+[dwarf]
+[hagrol flynthide]
+[lightning rail worker]
+[beldroth miara]
+[airship pilot]
+[airship man]
+[olivier rohran]
+[valentino fargloom]
+[king]
+[emry]
+[sterling]
+[tabaxi sailor]
+[firbolg barkeep]
+[vash]
+[divik]
+[rubber farmer]
+[tirrel|language training]
+[bethore the dark one]
+[jorn]
+"the"
+[common]
+[orden]
+[sting]
+[tirrell]
+[flare]
+[orden|questioning]
+[enala]
+[vesanz]
+[enala|(other adventuring party)]
+[shantala]
+[seer]
+[half elf bartender]
+[isra]
+[elasha]
+[faelin]
+[runehead]
+[airship man]
+[airship pilot]
+[kindroth]
+[emry]
+[bethore the dark one]
+[aetherborn librarain]
+[jorn]
+[vera|red dragon]
+"there"
+[orden|guessing charades]
+"theres"
+[tirrell]
+[sting|questioning politely]
+[aasimar]
+[aasimar male]
+[sting]
+[vesanz]
+[runehead]
+[airship pilot]
+[emry]
+"these"
+[vesanz]
+[sting]
+[tirrell]
+[orden]
+[yulia|goddess of moons]
+[yulia]
+[sterling]
+[vash]
+[bethore the dark one]
+[aetherborn librarain]
+"their"
+[sting]
+[vesanz]
+[orden]
+[isra]
+[tirrel]
+[samen gnome]
+[shantala]
+[tirrell]
+[yulia]
+[runehead|dwarf]
+[runehead]
+[dwarf]
+[airship man]
+[kindroth]
+[valentino fargloom]
+[king]
+[divik]
+[bethore the dark one]
+[jorn]
+"they"
+[sting]
+"theyre"
+[isra|repeating a sending from kindroth]
+[orden|guessing charades]
+[yuliana]
+[quiril|thankful]
+[isra]
+[sting]
+[vesanz]
+[tirrell]
+[tirrel]
+[shantala]
+[orden]
+[gnome carriage salesman]
+[king]
+[emry]
+[bethore the dark one]
+"them"
+[samen gnome]
+[emry]
+[jorn]
+"themselves"
+[dr lazurmir| lecturing]
+[tirrell|derogatory]
+[tirrell]
+[skyrim guard]
+[alka]
+[aasimar]
+[aasimar male]
+[vesanz]
+[kanna]
+[samen gnome]
+[sting]
+[elasha]
+[willowisp]
+[orden]
+[hagrol flynthide]
+[valentino fargloom]
+[bethore the dark one]
+"then"
+[runehead|dwarf]
+[lightning rail worker]
+"thurgon"
+[marlos| guild receptionist male halfing]
+[sterling]
+"third"
+[dr lazurmir| general]
+[dr lazurmir| annoyed]
+[common]
+[tirrell|annoyed]
+[sting|excited]
+[orden|boldy]
+[tirrell|derogatory]
+[isra|repeating a sending from kindroth]
+[orden]
+[tirrell]
+[firbolg male barkeep]
+[sting|stern]
+[sting]
+[flare]
+[aasimar]
+[aasimar male]
+[orden|questioning]
+[kanna]
+[isra]
+[vesanz]
+[marlos| guild receptionist male halfing]
+[tirrel]
+[gnome carriage salesman]
+[venali]
+[willowisp]
+[yulia]
+[dwarf]
+[valentino fargloom]
+[emry]
+[sterling]
+[rubber farmer]
+[tirrel|language training]
+[bethore the dark one]
+"this"
+[tirrell]
+"thicker"
+[firbolg male barkeep]
+[tirrell]
+[enala|serious]
+[vesanz]
+[orden]
+[runehead]
+[dwarf]
+[sting]
+[valentino fargloom]
+[bethore the dark one]
+"thing"
+[orden|guessing charades]
+[sting|questioning politely]
+[tirrell]
+[sting]
+[half elf bartender]
+[runehead]
+[magic items man]
+[valentino fargloom]
+[kindroth]
+[vesanz]
+[sterling]
+"things"
+[sting]
+"thingies"
+[sting]
+[sting|slightly frightened]
+[sting|questioning politely]
+[isra]
+[half elf bartender]
+[tirrell]
+[elasha]
+[willowisp]
+[orden]
+"think"
+[orden]
+"thinks"
+[tirrell]
+"thinner"
+[orden]
+[aasimar]
+[aasimar male]
+[enala|serious]
+[isra]
+[tirrell]
+[runehead]
+"those"
+[king]
+[emry]
+"though"
+[alka]
+[orden|relaying dream]
+[flare]
+[tirrell]
+"thought"
+[dr lazurmir| lecturing]
+"thoughts"
+[orden|teaching]
+[tirrell]
+"ti"
+[sting|slightly frightened]
+"tirrells"
+[tirrell|greeting]
+"tiriel"
+[sampson|elven gambler]
+"tie"
+[kanna]
+"tigers"
+[vesanz|somewhat perturbed]
+[ivis the forest dryad]
+[tirrell]
+[vesanz|on me copying stings voice]
+[elasha]
+[vesanz]
+[yulia]
+[tirrel|language training]
+[orden]
+[king alfon]
+"time"
+[beldroth miara]
+"times"
+[yuliana]
+[isra]
+"type"
+[tirrel]
+[emry]
+"typically"
+[vesanz|somewhat perturbed]
+[vesanz|questioning]
+[orden| frankly]
+[dr lazurmir| general]
+[dr lazurmir| annoyed]
+[common]
+[dr lazurmir| lecturing]
+[eve|friendly frankly]
+[eve]
+[orden|confused]
+[orden|lighthearted ]
+[elora|gentle but scared]
+[orden]
+[sting|confidently]
+[elora|emotionless]
+[vesanz]
+[skyrim guard]
+[tirrell]
+[torment|hesitant]
+[torment]
+[isra|repeating a sending from kindroth]
+[vesanz|on me copying stings voice]
+[ogre voice]
+[sting]
+[orden|negotiating]
+[sting|proud]
+[alka]
+[tirrell|declaring]
+[sting|tired]
+[flare]
+[sting|questioning politely]
+[aasimar]
+[aasimar male]
+[orden|questioning]
+[pariah]
+[tirrells mom]
+[kanna]
+[isra]
+[enala]
+[sarril]
+[enala|serious]
+[tirrel]
+[wendell]
+[marlos| guild receptionist male halfing]
+[samen gnome]
+[devon tavern hafling]
+[tabaxi magic shop]
+[gnome carriage salesman]
+[shantala]
+[venali]
+[elasha]
+[willowisp]
+[bronthas]
+[sampson|elven gambler]
+[yulia|goddess of moons]
+[yulia]
+[runehead]
+[lightning rail worker]
+[airship pilot]
+[olivier rohran]
+[beldroth miara]
+[kindroth]
+[valentino fargloom]
+[king]
+[emry]
+[sterling]
+[triton sailor]
+[firbolg barkeep]
+[divik]
+[rubber farmer]
+[tirrel|language training]
+[bethore the dark one]
+[aetherborn librarain]
+"to"
+[enala|(other adventuring party)]
+"torn"
+[dr lazurmir| feigned care]
+[runehead]
+"today"
+[sting|excited]
+[firbolg male uncomfortable]
+[tirrell]
+[vesanz]
+"touch"
+[sting]
+"touching"
+[tirrell]
+"toe"
+[dr lazurmir| caring facade to patient]
+[alka]
+[sting]
+"together"
+[tirrell]
+"tower"
+[orden]
+[sting|tired]
+[tirrell]
+[tirrel]
+[shantala]
+[lightning rail worker]
+[rubber farmer]
+"town"
+[sterling]
+"token"
+[sterling]
+"tokens"
+[orden|confused]
+[elora|emotionless]
+[alka]
+[isra]
+[tirrell]
+[valentino fargloom]
+[bethore the dark one]
+"told"
+[tirrell]
+[isra]
+"tomorrow"
+[tirrell]
+"tongues"
+[tirrell|annoyed]
+[sting|questioning]
+[enala]
+[gnome carriage salesman]
+"too"
+[yuliana]
+"took"
+[sterling]
+"tools"
+[kanna]
+"40"
+[orden|teaching]
+"u"
+[tirrell]
+[orden|questioning]
+[enala|(other adventuring party)]
+[vesanz]
+[runehead]
+[sting]
+[kindroth]
+[tirrel]
+[bethore the dark one]
+"up"
+[lightning rail worker]
+"upper"
+[kindroth]
+"upbringing"
+[sarril]
+"upstairs"
+[tirrell]
+[willowisp]
+[sterling]
+[bethore the dark one]
+"upon"
+[orden|confused]
+[elora]
+[vesanz]
+[tirrell]
+[isra|repeating a sending from kindroth]
+[orden]
+[alka]
+[kanna]
+[isra]
+[tirrel]
+[sting]
+[willowisp]
+[runehead|dwarf]
+[dwarf]
+[valentino fargloom]
+"us"
+[orden]
+[sting]
+[alka|gloating]
+[elasha]
+[warrick]
+[king]
+[emry]
+"use"
+[firbolg male barkeep]
+[kanna]
+[orden]
+[elasha]
+[rubber farmer]
+"used"
+[isra]
+"useful"
+[dr lazurmir| dissapointed]
+"useless"
+[sting]
+[tirrell]
+[vesanz]
+"usually"
+[vesanz]
+"using"
+[tirrell]
+"ugly"
+[orden|worried]
+[kanna]
+[vesanz]
+[sting]
+"uh"
+[sting|questioning politely]
+[runehead]
+"um"
+[willowisp]
+[tirrell]
+"unarith"
+[tirrell]
+"unseen"
+[skyrim guard]
+[emry]
+[orden]
+"undead"
+[tirrell]
+"understand"
+[bethore the dark one]
+"underdark"
+[tirrell]
+"underwater"
+[sting]
+[runehead]
+"underground"
+[tirrel]
+[elasha]
+"until"
+[dr lazurmir| annoyed]
+"unfortunate"
+[bethore the dark one]
+"unfortunately"
+[tirrel]
+[isra]
+"unicorn"
+[bethore the dark one]
+"uninhabited"
+[tirrell]
+"unless"
+[kanna]
+[tirrel]
+"50"
+[orden|teaching]
+"v"
+[isra|repeating a sending from kindroth]
+[alka]
+[isra]
+"valentino"
+[tirrell|derogatory]
+"valentinos"
+[tirrell]
+"verslun"
+[sting]
+[tirrell]
+[isra]
+"very"
+[sting]
+"vesanz"
+[orden|teaching]
+"vee"
+[bronthas]
+"vis"
+[bronthas]
+"visitors"
+[vesanz]
+"vision"
+[firbolg male barkeep]
+[orden]
+"village"
+[tirrell]
+"vinegar"
+[king]
+"violate"
+[orden| frankly]
+"violence"
+[tirrell]
+"violent"
+[tirrell]
+"vote"
+[orden]
+[sting|slightly frightened]
+[valentino fargloom]
+"voice"
+[sting]
+"voices"
+[sting]
+[valentino fargloom]
+"void"
+[tirrell]
+"volatile"
+[aasimar]
+[aasimar male]
+"60"
+[orden|teaching]
+"w"
+[orden]
+"war"
+[runehead]
+"warforged"
+[orden]
+"warming"
+[common]
+[torment]
+[orden]
+[firbolg male barkeep]
+[alka]
+[isra]
+[sting]
+[orden|questioning]
+[tirrell]
+[tirrells mom]
+[kanna]
+[enala]
+[vesanz]
+[enala|(other adventuring party)]
+[tirrel]
+[flare]
+[venali]
+[faelin]
+[willowisp]
+[yulia]
+[runehead]
+[beldroth miara]
+[valentino fargloom]
+[king]
+[emry]
+[sterling]
+[vash]
+[bethore the dark one]
+"was"
+[airship pilot]
+"wasting"
+[sarril]
+[valentino fargloom]
+[tirrell]
+"wasnt"
+[tirrell]
+"watch"
+[jorn]
+"watchers"
+[tirrell]
+"watching"
+[common]
+[vesanz]
+[sting]
+"water"
+[secretary]
+"waterfront"
+[enala]
+"waves"
+[gnome carriage salesman]
+"wagon"
+[dr lazurmir|surprised]
+[concerned woman voice trailing into the background]
+[orden|guessing charades]
+[tirrell]
+[sting]
+[devon]
+"wait"
+[wendell]
+"waiting"
+[tirrell]
+[yulia|goddess of moons]
+[yulia]
+[sterling]
+[aetherborn librarain]
+"way"
+[isra]
+"ways"
+[tirrell]
+"wake"
+[sterling]
+"walking"
+[tirrel]
+"walls"
+[vesanz|questioning]
+[dr lazurmir| annoyed]
+[orden]
+[tirrell]
+[vesanz]
+[sting]
+[sting|tired]
+[flare]
+[aasimar]
+[aasimar male]
+[kanna]
+[marlos| guild receptionist male halfing]
+[tirrel]
+[shantala]
+[elasha]
+[sampson|elven gambler]
+[runehead|dwarf]
+[runehead]
+[valentino fargloom]
+[emry]
+[sterling]
+[bethore the dark one]
+[king alfon]
+"want"
+[tirrell]
+[orden|yelling]
+"wants"
+[orden|questioning]
+"wanted"
+[sterling]
+"wanting"
+[sting]
+"want."
+[orden]
+"wrapping"
+[elasha]
+"wrendorei"
+[tirrell]
+"written"
+[sting]
+[tirrel|language training]
+"write"
+[sterling]
+"wrong"
+[sting|questioning concerned]
+[orden]
+[elora|emotionless]
+[tirrell|derogatory]
+[tirrell]
+[eve]
+[orden|enforcing]
+[vesanz|confused]
+[firbolg male barkeep]
+[sting]
+[alka]
+[isra]
+[vesanz]
+[kanna]
+[enala]
+[tirrel]
+[samen gnome]
+[shantala]
+[elasha]
+[faelin]
+[willowisp]
+[bronthas]
+[yulia]
+[runehead]
+[kindroth]
+[vash]
+[rubber farmer]
+"we"
+[flare]
+"weapon"
+[sting|questioning politely]
+"weapons"
+[dr lazurmir| general]
+"weakening"
+[elora|emotionless]
+[tirrell|derogatory]
+[sting|intimidating ]
+[sting]
+[firbolg male barkeep]
+[alka]
+[tirrell]
+[orden]
+[vesanz]
+[devon]
+[isra]
+[runehead]
+[beldroth miara]
+[valentino fargloom]
+[bethore the dark one]
+[aetherborn librarain]
+"were"
+[runehead]
+[valentino fargloom]
+"werent"
+[tirrell]
+[elasha]
+[sting]
+[rubber farmer]
+"west"
+[emry]
+[king alfon]
+"weeks"
+[vesanz]
+"we're"
+[vesanz|somewhat perturbed]
+"weirds"
+[runehead]
+"weirdest"
+[skyrim guard]
+[orden]
+[devon tavern hafling]
+[lightning rail worker]
+[tirrel|language training]
+"welcome"
+[dr lazurmir| feigned care]
+[alka]
+[aasimar]
+[aasimar male]
+[tirrell]
+[orden]
+[tirrel|language training]
+[bethore the dark one]
+"well"
+[runehead]
+[isra]
+[sterling]
+[orden]
+"went"
+[orden|teaching]
+"wha"
+[common]
+[tirrell|questioning]
+[tirrell]
+[torment|tiefling man]
+[tirrell|derogatory]
+[sting]
+[isra|repeating a sending from kindroth]
+[vesanz|confused]
+[firbolg male barkeep]
+[flare]
+[aasimar]
+[aasimar male]
+[orden|questioning]
+[pariah]
+[verslun]
+[kanna]
+[kana]
+[vesanz]
+[orden]
+[tirrel]
+[marlos| guild receptionist male halfing]
+[samen gnome]
+[seer confused]
+[skyrim guard]
+[half elf bartender]
+[tabaxi magic shop]
+[isra]
+[gnome carriage salesman]
+[warrick]
+[willowisp]
+[hagrol flynthide]
+[beldroth miara]
+[olivier rohran]
+[kindroth]
+[valentino fargloom]
+[emry]
+[sterling]
+[rubber farmer]
+[tirrel|language training]
+[bethore the dark one]
+"what"
+[skyrim guard]
+[tirrell]
+[sting]
+"whats"
+[sting|shouting to a city]
+[common]
+[dr lazurmir|surprised]
+[vesanz]
+[sting|exclaiming]
+[flare]
+[pariah]
+[tirrel]
+[tirrell]
+[isra]
+[shantala]
+[sting]
+[emry]
+[orden]
+[tirrel|language training]
+[bethore the dark one]
+"where"
+[vesanz]
+"whereabouts"
+[sting]
+"wheres"
+[common]
+[orden]
+[tirrell]
+[vesanz]
+[yulia]
+[sterling]
+"when"
+[sting]
+"whenever"
+[common]
+[elora|emotionless]
+[orden]
+[sting|intimidating ]
+[tirrell]
+[flare]
+[sting]
+[orden|teaching]
+[tabaxi magic shop]
+[sampson]
+"why"
+[hagrol flynthide]
+"whip"
+[sting]
+"whistiling"
+[tirrell]
+[bethore the dark one]
+"which"
+[bethore the dark one]
+"white"
+[kanna]
+[vesanz]
+[bethore the dark one]
+"while"
+[common]
+[orden|confused]
+[kana]
+[tirrell]
+[isra]
+[sting]
+[olivier rohran]
+[orden]
+[sterling]
+[divik]
+"who"
+[vesanz]
+[runehead|dwarf]
+[beldroth miara]
+"whole"
+[sting]
+"whooped"
+[orden|relaying dream]
+"wise"
+[orden]
+[kindroth]
+[firbolg barkeep]
+[king alfon]
+"wish"
+[bethore the dark one]
+"wishes"
+[dr lazurmir| general]
+[dr lazurmir| intrigued]
+[common]
+[dr lazurmir| pleased]
+[dr lazurmir|professional]
+[orden]
+[quiril|thankful]
+[alka]
+[sting]
+[tirrell]
+[flare]
+[aasimar]
+[aasimar male]
+[vesanz]
+[kanna]
+[kana]
+[enala]
+[sarril]
+[shantala]
+[runehead]
+[isra]
+[sterling]
+[valentino fargloom]
+[king]
+[emry]
+[bethore the dark one]
+[king alfon]
+"with"
+[orden]
+[sting]
+"without"
+[sting|excited]
+"wierd"
+[vesanz|on me copying stings voice]
+"wierds"
+[sting]
+"wizard"
+[tirrell|derogatory]
+"wilt"
+[sting]
+"wild"
+[dr lazurmir| general]
+[dr lazurmir| caring facade to patient]
+[eve|whispered]
+[tirrell|annoyed]
+[tirrell]
+[flare]
+[aasimar]
+[aasimar male]
+[vesanz]
+[kanna]
+[orden]
+[enala|serious]
+[tirrel]
+[seers assistant]
+[seer]
+[elasha]
+[warrick]
+[kindroth]
+[king]
+[bethore the dark one]
+[king alfon]
+"will"
+[old fisherman]
+"willamir"
+[sting|slightly frightened]
+"wind"
+[aasimar]
+[aasimar male]
+"wind."
+[enala|serious]
+"wings"
+[dr lazurmir| caring facade to patient]
+[eve|whispered]
+"worry"
+[sting]
+[runehead]
+"worst"
+[orden|worried]
+"worse"
+[common]
+[firbolg male barkeep]
+[venali]
+[warrick]
+[beldroth miara]
+[orden]
+[sting]
+"word"
+[dr lazurmir| flat]
+[sting]
+[orden]
+"words"
+[orden]
+"word."
+[alka|sarcastic researcher]
+[vesanz]
+[flare]
+[kanna]
+[orden]
+[runehead]
+[king]
+[tirrell]
+[bethore the dark one]
+"work"
+[beldroth miara]
+"workers"
+[alka]
+[runehead]
+"worked"
+[dr lazurmir| annoyed]
+[tirrell|joking]
+[tirrell|derogatory]
+[orden]
+[alka]
+[sting]
+[flare]
+[aasimar]
+[aasimar male]
+[orden|relaying dream]
+[tirrell]
+[kanna]
+[tirrel]
+[king]
+[vesanz]
+"would"
+[orden]
+"woulds"
+[tirrell]
+"wouldnt"
+[king]
+"wouldn't"
+[tirrell]
+"wow"
+[orden|questioning]
+"woke"
+[vesanz]
+[tirrell]
+"wolding"
+[orden| frankly]
+[sting]
+"woman"
+[sting]
+[tabaxi sailor]
+"wonder"
+[sting]
+"wonders"
+[orden]
+"wont"
+[tirrel]
+"wooden"
+[orden|teaching]
+[sting]
+"x"
+[tirrell]
+"8"
+[orden|teaching]
+[sting]
+"y"
+[highelf instrument crafter woman]
+[orden|teaching]
+"ya"
+[orden|smiting through the fucking ceiling]
+[alka]
+"yea"
+[tirrell|questioning]
+[alka]
+[tirrell]
+"years"
+[dr lazurmir| general]
+[dr]
+[orden]
+[alka]
+[tirrel]
+[runehead]
+[airship pilot]
+[vesanz]
+[divik]
+[tirrel|language training]
+[jorn]
+"yes"
+[orden|teaching]
+"yew"
+[tirrell]
+"yuanto"
+[tirrell]
+[orden]
+"ymir"
+[tirrell]
+[flare]
+"yotenheim"
+[vesanz|somewhat perturbed]
+[vesanz|questioning]
+[dr lazurmir| feigned care]
+[dr lazurmir| general]
+[dr lazurmir| annoyed]
+[dr lazurmir| flat]
+[common]
+[dr lazurmir| caring facade to patient]
+[dr lazurmir| lecturing]
+[concerned womans voice]
+[dr lazurmir|surprised]
+[dr lazurmir|professional]
+[eve|whispered]
+[eve|friendly frankly]
+[eve]
+[sting|excited]
+[orden|confused]
+[orden|lighthearted ]
+[sting]
+[elora|gentle but scared]
+[tirrell|derogatory]
+[tirrell|bluntly]
+[tirrell]
+[orden]
+[torment|tiefling man]
+[sting|intimidating ]
+[orden|guessing charades]
+[vesanz]
+[orden|negotiating]
+[quiril|thankful]
+[alka]
+[sting|excited exclamation]
+[fire genasi woman]
+[flare]
+[sting|questioning politely]
+[aasimar]
+[aasimar male]
+[orden|teaching]
+[orden|questioning]
+[orden|relaying dream]
+[tirrells mom]
+[pariah]
+[kanna]
+[isra]
+[enala|serious]
+[marlos| guild receptionist male halfing]
+[samen gnome]
+[tirrel]
+[shantala]
+[devon]
+[seer confused]
+[seer]
+[skyrim guard]
+[half elf bartender]
+[tabaxi magic shop]
+[gnome carriage salesman]
+[elasha]
+[willowisp]
+[sampson]
+[yulia]
+[runehead]
+[hagrol flynthide]
+[airship pilot]
+[olivier rohran]
+[magic items man]
+[kindroth]
+[valentino fargloom]
+[king]
+[emry]
+[sterling]
+[triton sailor]
+[firbolg barkeep]
+[vash]
+[rubber farmer]
+[andrin]
+[tirrel|language training]
+[bethore the dark one]
+[king alfon]
+"you"
+[dr lazurmir| general]
+[dr lazurmir| flat]
+[dr lazurmir| lecturing]
+[sting|questioning]
+[dr]
+[torment|hesitant]
+[orden]
+[yuliana]
+[sting|stern]
+[alka]
+[sting|excited exclamation]
+[tirrell]
+[flare]
+[pariah]
+[vesanz]
+[wendell]
+[skyrim guard]
+[sting]
+[isra]
+[gnome carriage salesman]
+[shantala]
+[elasha]
+[beldroth miara]
+[kindroth]
+[king]
+[librarian]
+[emry]
+[tirrel]
+[tirrel|language training]
+[bethore the dark one]
+[aetherborn librarain]
+"your"
+[tirrell]
+[sting]
+[bethore the dark one]
+"yourself"
+[runehead]
+"yourselves"
+[skyrim voice]
+[sting]
+[tirrell]
+[firbolg male barkeep]
+[alka]
+[sarril]
+[shantala]
+[eve]
+[tirrel|language training]
+"youre"
+[orden]
+"youve"
+[tirrell|derogatory]
+"youll"
+[tirrell]
+[runehead]
+"younger"
+[orden|teaching]
+"z"
+[orden|teaching]
+"zee"
+[orden|teaching]
+"zi"
+[orden|teaching]
+"zzz"
+[sting]
+"zombie"
